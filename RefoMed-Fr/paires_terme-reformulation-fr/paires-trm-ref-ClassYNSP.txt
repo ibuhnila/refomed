@@ -1,0 +1,1195 @@
+Column1	Column2
+18F-fluoro-désoxy-glucose	(FDG)
+18F-fluoro-désoxy-glucose	(FDG)
+accident vasculaire cérébral	(AVC)
+accident vasculaire cérébral	(AVC)
+accident vasculaire cérébral 	(AVC)
+accidents vasculaires cérébraux (	(AVC)
+acroparesthésies et des angiokératomes	appelé/e affection/s douleurs des extrémités
+activité de base de la vie quotidienne 	(trouble/s ADL)
+activité des méthyltransférases de l' ADN	(DNMT)
+activité histone-acétylase	(HAT)
+affaiblissement récent global	(maladie/s asthénie , anorexie , amaigrissement)
+affaiblissement récent sélectif	(troubles de la marche , troubles intellectuels)
+affection  longue  durée	(affection/s ALD)
+affection extra-articulaire	: affection/s psoriasis , acné , pustulose , entéropathie , infection génito-urinaire ou digestive , atteinte oculaire
+affection extra-articulaire	: affection/s psoriasis , acné , pustulose , entéropathie , affection génito-urinaire ou digestive , atteinte oculaire
+affection néoplasique	(affection/s splénique , gastrique , génito-urinaire , endocrinien , vésicale)
+affection oculaire	(toute autre affection/s dégénérescence maculaire , glaucome)
+affections	, comme maladie/s le syndrome de Gougerot-Sjögren ou le syndrome des antiphospholipides
+affections dermatologiques	(maladie/s acnés conglobata et fulminante , hidrosadénite suppurée ou maladie de Verneuil , pustulose palmoplantaire)
+affections dermatologiques	(psoriasis , pemphigus)
+affections immunologiques	(lupus , syndrome des antiphospholipides)
+Affections pulmonaires ( sans infection )	: affection/s asthme , mucoviscidose , ventilation mécanique
+affections respiratoires chroniques 	(asthme , bronchopneumopathie chronique obstructive)
+agents fongiques	(notamment Histoplasma)
+Aides mécaniques	(trouble/s cannes , béquilles , déambulateur)
+AJI	(arthrite juvénile idiopathique)
+AJI	: arthrite juvénile idiopathique
+ALD	(affection/s affection de longue durée)
+ALD	(affection/s affection de longue durée)
+ALD	(affection/s affection de longue durée)
+ALD	(affection/s affection de longue durée)
+ALD	(affection/s affection de longue durée)
+ALD	: affection/s affection de longue durée
+ALD	: affection/s affection de longue durée
+amphotéricine	(AMB)
+anesthésie générale	(trouble/s AG)
+anomalies biologiques	(trouble/s syndrome inflammatoire , troubles de l' absorption)
+antagonistes des récepteurs de l’angiotensine-2	(ARA-2)
+antagonistes des récepteurs de l’angiotensine-2	(ARA-2)
+antibiotique dit temps dépendant	tels que la vancomycine et les bêtalactamines
+anticitrulline	[affection/s anti-CCP]
+anticorps anticytoplasme des polynucléraires	(maladie/s ANCA)
+anticorps antinucléaires	(maladie/s AAN)
+anticorps antinucléaires	(FAN)
+anticorps antinucléaires 	(FAN)
+anticorps antiphospholipides	(trouble/s aPL)
+anticorps anti-phospholipides	(trouble/s aPL)
+antiépileptiques	notamment la gabapentine et la prégabaline
+antifongiques	, l' itraconazole ( ITZ ) et l' amphotéricine B ( AMB )
+antifongiques	l' itraconazole ( ITZ ) et l' amphotéricine B ( AMB )
+antigènes spécifiques de Mycobacterium tuberculosis	tels que la catalase-peroxydase
+anti-phospholipides	(trouble/s SAPL)
+antithrombine	(AT)
+apporter  une  nouvelle  fonction	(synthèse de facteurs neurotrophiques)
+arguments histologiques	(maladie/s granulomes épithélioïdes et gigantocellulaires sans nécrose caséeuse)
+Association de langue française pour l’étude du diabète et des maladies métaboliques	(maladie/s ALFEDIAM)
+Association de langue française pour l’étude du diabète et des maladies métaboliques	(maladie/s ALFEDIAM)
+asthme	(affection/s une affection respiratoire chronique)
+asthme , mucoviscidose , ventilation mécanique	: affection/s Affections pulmonaires (sans infection )
+ATM	est un senseur de dommage capable d' activer des voies de signalisation agissant notamment sur le cycle cellulaire et sur la recombinaison homologue
+atteinte  pulmonaire	(trouble/s insuffisance respiratoire restrictive , hypoxémie , hypercapnie)
+atteinte muqueuse	définie par une infiltration de la muqueuse sans atteinte de la musculeuse ou de la sous-séreuse
+atteinte musculeuse	définie une obstruction intestinale complète ou incomplète avec infiltration de la musculeuse par des PNE en l’absence d’une ascite à éosinophiles
+atteinte musculeuse	définie par une obstruction intestinale complète ou incomplète avec infiltration de la musculeuse par des PNE en l’absence d’une ascite à éosinophiles
+atteinte sous-séreuse	définie une infiltration du tractus gastro-intestinal par des PNE associée à une ascite à éosinophiles
+atteinte sous-séreuse	définie par une infiltration du tractus gastro-intestinal par des PNE associée à une ascite à éosinophiles
+atteintes extra-neurologiques	tel que maladie/s le livedo du syndrome de Sneddon [101] , les douleurs acrales et les angiokératomes de la maladie de Fabry , les stries angioïdes et les lésions des grands plis du pseudoxanthome élastique [102] , ou encore l’atteinte rétino-cochléaire du syndrome de Susac
+autisme  de  Kanner	(trouble/s les troubles développementaux de la personnalité ; trouble de l' unité )
+autoanticorps	(maladie/s autoAc)
+avoir ou non un aspect granulomateux	(PRD en graisse de mouton)
+bacille de Klebs-Loeffler	(maladie/s corynebacterium diphteriae)
+bactéries	(Yersinia , Salmonella)
+biopsie des glandes salivaires accessoires	(BGSA)
+Bloom	(échange d' ADN trop fréquent amenant à un retard de croissance et de nombreux cancers)
+bouffées de chaleur , érythermalgie	(trouble/s Troubles vasomoteurs ou de la thermorégulation)
+BPCO	: bronchopneumopathie chronique obstructive
+BPCO	bronchopneumopathie chronique obstructive
+bradykinésie	(ralentissement des mouvements)
+bronchopneumopathie chronique obstructive	(BPCO)
+burn out syndrome	connu sous le nom de un contexte d' épuisement et de dépression
+cancers	notamment sein , des poumons , de la rate , et de l' estomac
+cancers	notamment sein , des poumons , de la rate , et de l' estomac
+cancers	notamment digestifs
+cancers	notamment digestifs
+carcinoma associated retinopathy	[CAR]
+cardiovasculaires	(bronchospasmes , hypotension)
+cardiovasculaires	(bronchospasmes , hypotension)
+causes infectieuses 	: mycobactéries atypiques , en particulier chez des immunodéprimés [21] , lèpre [4] and [7] , histoplasmose [22] , candidose [3] and [5] , toxoplasmose [4] , Epstein-Barr virus
+CD53	est un/e un marqueur leucocytaire
+CD53	est un/e par exemple un marqueur leucocytaire
+CD81 , CD82 , CD9	telles que des compartiments légèrement acides ( pH 6 ,2 ) riches en tétraspanines
+cellules anormales	telles que des blastes ( leucémie ) , des schizocytes 
+cellules immunitaires humaines	telles que les cellules T
+cellules immunitaires humaines	telles que les cellules T
+Céphalées avec signes de gravité	(trouble/s hypertension intracrânienne , troubles de la vigilance)
+céphalées d’allure commune	(maladie/s migraine , céphalée de tension)
+certaines comorbidités	tels que l’insuffisance rénale mais aussi les troubles cognitifs et psychiatriques graves , les associations médicamenteuses qui potentialisent l’activité des sulfamides hypoglycémiants , la polymédication ainsi que l’alcool
+certaines hémopathies malignes	(syndromes lymphoprolifératifs)
+certains virus 	comme le CMV , le HSV , l’EBV en cas d’hypercellularité dans le LCS , mais également le virus JC
+chaise à primate	appelé/e système de contention utilisé chez le primate vigile encore
+chorée gravidique	notamment maladie/s pendant une grossesse
+chromosome 16	(maladie/s 16q12)
+coagulation intravasculaire disséminée	(CIVD)
+coefficient de diffusion apparent 	(maladie/s CDA)
+comorbidités	tels que trouble/s  l’insuffisance rénale
+comorbidités	tels que trouble/s l’insuffisance rénale
+compartiments légèrement acides ( pH 6 ,2 ) riches en tétraspanines	telles que CD81 , CD82 , CD9 et partiellement CD63
+complexes	(avec trouble de la vigilance)
+complications cardiaques	(trouble/s arythmie ou troubles de la conduction)
+complications de la corticothérapie chez les sujets âgés	, notamment l’ostéoporose , les complications cutanées et les complications morphologiques.
+complications relèvent en effet d’un mécanisme hormonal	(trouble/s acné , hirsutisme , complications psychiatriques , troubles hydro-électrolytiques )
+complications sévères	(maladie/s neuropathie périphérique , maladie thromboembolique veneuse profonde)
+comportement moteur	(et notamment dyskinétique)
+composés toxiques	comme les sels biliaires
+comprimés à libération prolongée	(par exemple Kaléorid® , Topalgic® LP)
+comprimés à libération prolongée	(par exemple Kaléorid® , Topalgic® LP)
+comprimés gastro-résistants	(par exemple Dépakine® , Dépamide® , Inexium®)
+comprimés gastro-résistants	(par exemple Dépakine® , Dépamide® , Inexium®)
+comprimés gastro-résistants 	par exemple Dépakine® , Dépamide® , Inexium®
+connectivites	(par exemple lupus systémique , syndrome de Sjögren , polyarthrite rhumatoïde , myopathies inflammatoires)
+coping	: il s'agit de maladie/s la capacité à surmonter un événement éprouvant et d’en diminuer l’impact sur son bien être physique et psychique 
+corticoïdes	(méthotrexate , mycophénolate mofétil , cyclophosphamide)
+coxite	(maladie/s Les formes chroniques exceptionnellement destructrices)
+crises non épileptiques psychogènes	(Les autres trouble/s crises somatoformes , troubles factices , simulations)
+crises répétées	(notamment plus de deux crises en 24 heures)
+cryoglobulines	, maladie/s des immunoglobulines (Ig ) anormales qui précipitent lors d' une exposition au froid
+cryoglobulines	, maladie/s des immunoglobulines (Ig ) anormales qui précipitent lors d' une exposition au froid
+cryopyrine	est appelé/e La protéine correspondante au gène CIAS1 a des régions homologues avec celle de la pyrine
+cryptorchidisme	(affection/s non descente des testicules dans le scrotum)
+cryptorchidisme	(non descente des testicules dans le scrotum)
+CSI	: corticostéroïde inhalé
+CSI	orticostéroïde inhalé
+cutanées	(hématomes , lésions purpuriques)
+cytokines  inflammatoires	(TNF? , IL-1? , IFN?)
+cytomegalovirus	(CMV)
+cytomegalovirus 	(CMV)
+d'  affections  organiques 	d'ordre rhumatologique , hormonale , neurologique voire métabolique
+d' autoAc non spécifiques 	(facteurs rhumatoïdes , antinucléaires , antiphospholipides )
+d' autoAc non spécifiques (	(facteurs rhumatoïdes , antinucléaires , antiphospholipides)
+d' HVA 	(4-hydroxy-3-méthoxyphenylacetique acide , Sigma)
+d' inhibiteurs	tels que le F4P ou le transforming growth factor
+d' une infection rétinienne adjacente	(par exemple ors d' une nécrose rétinienne aiguë)
+d’accident vasculaire cérébral	(AVC)
+d’affections dermatologiques	(psoriasis , pemphigus)
+d’autres affections immunologiques 	(lupus , syndrome des antiphospholipides)
+d’encéphalopathie postérieure réversible 	(maladie/s PRES)
+Dc	(diagnostic)
+Dc	: diagnostic
+DDD	(définie dose définie journalière)
+de  Bloom	(échange d' ADN trop fréquent amenant à un retard de croissance et de nombreux cancers)
+de  liens	appelé/e Linking number , Lk
+de  liens	appelé/e Linking number , Lk
+de comprimés gastro-résistants 	(par exemple Dépakine® , Dépamide® , Inexium®)
+de DOPAC	(3 ,4 dihydroxyphenylacetique acide Sigma)
+de manière prolongée	(maladie/s pendant une période minimale de 18 mois)
+DEP	: débit expiratoire de pointe
+DEP	débit expiratoire de pointe
+dérivation	ou dérivatisation
+dérivation	ou dérivatisation
+des  anomalies  structurales  et  cytoarchitecturales	(trouble/s neuropile , interactions neurone- glie)
+des  arthralgies  intermittentes	(par exemple un rhumatisme palindromique)
+des  défauts  de  pigmentation	, certaines zones sont dépigmentées alors que d' autres sont hyperpigmentées
+des  défauts  de  pigmentation	, certaines zones sont dépigmentées alors que d' autres sont hyperpigmentées
+des  formes  «  périphériques  »	caractérisé par une atteinte axiale , un amaigrissement important et la survenue rapide d' une insuffisance respiratoire , soit par un déficit distal des membres inférieurs de type pseudopolynévritique ( forme de Patrikios ) , ou bien encore par un déficit proximal des membres supérieurs ( flail arm syndrome )
+des  maladies  génétiques  rares	, comme par exemple comme par exemple les syndromes de Werner ( dysfonctionnement d' une hélicase entraînant un vieillissement prématuré et le développement de pathologies liées au vieillissement ) ou de Bloom
+des  manifestations  du  lupus	appelé/e un « lupus-like syndrome » ou un lupus « probable » , ou un lupus « latent » , ou enfin un lupus « incomplet »
+des  manifestations  fonctionnelles 	: troubles du sommeil , céphalée , points douloureux , seuil de douleur abaissé , fatigue générale , troubles digestifs , anxiété générale , dépression
+des  réactions  cutanées	telles que trouble/s l' apparition de rougeurs , des crises urticaires
+des  réactions  cutanées	telles que trouble/s l' apparition de rougeurs , des crises urticaires
+des  structures  d'  ADN  aberrantes	(extrusion de structures cruciformes au niveau de séquences répétées , triplex d' ADN et des boucles R d' hybridation ADN-ARNm)
+des  structures  d'  ADN  aberrantes	(extrusion de structures cruciformes au niveau de séquences répétées , triplex d' ADN et des boucles R d' hybridation ADN-ARNm)
+des  traitements  pharmacologiques 	(par exemple maladie/s administration de L-DOPA )
+des  traitements  pharmacologiques 	(par exemple maladie/s administration de L-DOPA)
+des  troubles  endocriniens  et  ophtalmologiques	(cataracte , kératite)
+des  troubles  endocriniens  et  ophtalmologiques	(cataracte , kératite)
+des  troubles  respiratoires  et  cardiovasculaires	(bronchospasmes , hypotension)
+des  troubles  respiratoires  et  cardiovasculaires 	(bronchospasmes , hypotension)
+des  veines  caves 	(veine cave supérieure et veine cave inférieure)
+des affections auto-immunes 	: maladie/s thyroïdites [3] , [32] , [33] , [34] and [35] , diabète de type 1 [36] , cytopénies auto-immunes
+des agents fongiques	(notamment Histoplasma)
+des anomalies structurales pouvant expliquer la crise	(cicatrice tissulaire , d’origine inflammatoire ou ischémique)
+des antifongiques	(itraconazole)
+des antirétroviraux	(atazanavir [52] , indinavir [53] , nelfinavir [54])
+Des attaques de sommeil	définies commes la survenue brutale , irrésistible et sans prodrome d' un épisode de sommeil
+des autoAc anti-GAD	(maladie/s glutamic acide décarboxylase )
+des bactéries à prolifération extracellulaire	telles que Neisseiria meningitidis ( ou méningocoque ) , Streptococcus pneumoniae et Haemophilus influenzae
+des bactéries intracellulaires	comme Listeria monocytogenes
+Des cellules	(PC12 ou GH3 )
+des cellules avec des détergents	comme le CHAPS , le Brij58 , le Brij96 , le Brij97 et le Brij98 
+des cellules avec des détergents	comme le CHAPS , le Brij58 , le Brij96 , le Brij97 et le Brij98
+des compartiments légèrement acides ( pH 6 ,2 ) riches en tétraspanines	, CD81 , CD82 , CD9 et partiellement CD63
+des complications sévères	telles que les complications cardiovasculaires ou le diabète
+des comportements d' auto-mutilation	tels que des morsures
+des comportements d' auto-mutilation	tels que des morsures
+des effets indésirables	(trouble/s anémie , neutropénie , thrombopénie , dysthyroïdie , symptômes psychiatriques , troubles cutanés…)
+des effets indésirables 	(trouble/s anémie , neutropénie , thrombopénie , dysthyroïdie , symptômes psychiatriques , troubles cutanés…)
+des enzymes 	, en particulier la protéine cationique éosinophile
+des étiologies	telles que maladie/s la maladie de Behçet
+des facteurs de risque vasculaires dits « non conventionnels »	comme maladie/s la ménopause précoce , la corticothérapie au long cours , l’insuffisance rénale , l’hypertriglycéridémie , l’hyperhomocystéinémie , l’insulinorésistance , l’inflammation chronique et le syndrome métabolique
+des facteurs susceptibles d’interférer avec l’alimentation	tels que trouble/s  l’isolement , le mauvais état buccodentaire , les difficultés économiques , les troubles psychocognitifs et la comorbidité
+des grosses articulations	(hanche , genou , cheville)
+des immunosuppresseurs	(mycophénolate mofétil)
+des interventions pharmaceutiques	définie par toute action initiée par un pharmacien qui induit directement une modification de la prise en charge du patient
+des lésions chroniques	(une atrophie tubulaire avec fibrose interstitielle)
+des lignées	telles que les HEK-293T
+des lymphomes peu différenciés 	(Burkitt)
+des maladies auto-immunes	(maladie/s lupus érythémateux systémique , syndrome de Gougerot-Sjögren ou vascularites)
+des maladies auto-immunes	notamment maladie/s la PR
+des maladies auto-immunes 	(lupus érythémateux systémique , syndrome de Gougerot-Sjögren ou vascularites principalement)
+des maladies fréquentes	tels que maladie/s l’athérome intracrânien , la dysplasie fibromusculaire , les dissections artérielles et l’angiopathie amyloïde
+des maladies génétiques	comme maladie/s certaines formes de rétinite pigmentaire
+des manifestations associées aux atteintes d’organes extrathoraciques	(par exemple uvéite , syndrome sec ou sarcoïdes cutanées)
+des molécules sur les lymphocytes T	telles que CD4 et CD8
+des molécules sur les lymphocytes T	telles que CD4 et CD8
+des pathologies bénignes	 comme la fibrose médiastinale
+des pathologies multifactorielles	telle maladie/s la maladie de Crohn
+des pathologies virales 	(hépatite C , infection par le virus de l’immunodéficience humaine)
+des phobies	(trouble/s agoraphobie , phobies sociales , phobies simples)
+des polynucléaires neutrophiles	(PNN)
+des protéines de la cascade intracellulaire dépendante de ce récepteur	(Cd K5 et DARP-32 )
+des protéines de structure	telles que le collagène ou la fibrine
+des protéines de structure	telles que le collagène ou la fibrine
+des sérines-protéases	telles que la thrombine et le facteur Stuart
+des sérines-protéases	telles que la thrombine (facteur IIa ) et le facteur Stuart (facteur Xa )
+des signes d' atteintes corticales	(trouble/s crise d' épilepsie , troubles des fonctions supérieures , aphasie , hémianopsie latérale homonyme , apraxie)
+des signes dysautonomiques prédominants	(trouble/s dyshidrose , dysfonction érectile , dysurie , troubles fonctionnels intestinaux , hypotension orthostatique , anomalies pupillaires)
+des signes neurologiques peu spécifiques	trouble/s vertiges , désorientation , chute ou troubles du comportement
+des solutions mères de dopamine	(consiste 3-4 dihydroxyphenylethylamine , Aldrich)
+des solutions mères de dopamine 	(consiste 3-4 dihydroxyphenylethylamine , Aldrich )
+des stimulateurs de la motricité intestinale	(l’érythromycine ou l’octréotide)
+des stimulateurs de la motricité intestinale	tel que l’érythromycine ou l’octréotide
+des stimuli non osmotiques	notamment douleur , nausées , hypoxie
+des stimuli non osmotiques	(douleur , nausées , hypoxie)
+des troubles anxieux et surtout phobiques	(notamment trouble/s agoraphobie et phobie sociale)
+des troubles de la sudation	(hypo/anhidrose , hyperhidrose)
+des troubles de rythme cardiaque 	incluant trouble/s une extrasystolie auriculaire ou ventriculaire , une bradycardie ou une tachycardie sinusale 
+des troubles fonctionnels intestinaux	(constipation , diarrhée , pseudo-occlusion intestinale chronique)
+des troubles phoniques	(trouble/s aphonie oscillante)
+des voies de signalisation intracellulaires	telles que ERK/MAPK
+des voies de signalisation intracellulaires	telles que ERK/MAPK
+diabète  de  type  2  	[DM2]
+discriminateur	appelé/e une séquence riche en GC entre la boîte -10 et le site d' initiation de la transcription
+diurétiques	notamment thiazidiques
+diurétiques	notamment thiazidiques
+divers  métaux  	(mercure , cuivre , zinc , aluminium , manganèse)
+DNases Activées par la Caspase 3	(DAC)
+DNases Activées par la Caspase 3	(DAC)
+domaine à glycine	appelé/e glycine zipper
+domaine à glycine	appelé/e glycine zipper ( G/A/SXXXG/A/SXXXG/A/S )
+DOPAC	(3 ,4 dihydroxyphenylacetique acide Sigma)
+douleurs  notamment  faciales	(névralgie du trijumeau)
+dysautonomiques	(troubles de la sudation , troubles fonctionnels intestinaux et vésicaux , syndrome sec , troubles visuels , bouffées de chaleur , hypotension orthostatique)
+dyskinésies	appelé/e maladie/s mouvements anormaux involontaires
+dyskinésies	appelé/e maladie/s mouvements anormaux involontaires
+ECG	: électrocardiogramme
+ECG	électrocardiogramme
+effets    indésirables  périphériques  muscariniques  	, tels que trouble/s troubles de la mémoire , confusion et hallucinations
+efflux anagène	(une chute des cheveux dystrophiques suite à un arrêt brutal de la phase de croissance)
+efflux télogène	(un passage prématuré des cheveux de la phase de croissance à la phase de repos)
+EFR	: exploration fonctionnelle respiratoire
+EFR	exploration fonctionnelle respiratoire
+électrophysiologie	(enregistrement et stimulation par microélectrodes)
+élément  appelé  «  C	ou C-gate
+élément  appelé  «  C 	ou C-gate 
+EMAD	, affection/s groupe hétérogène des formes frontières de SEP
+encéphalomyélite  auto-immune  expérimental	(maladie/s EAE)
+endoscopie	(examens digestifs systématiques)
+endoscopie	(les examens digestifs)
+endothéline	(ET)
+entérocolopathies inflammatoires chroniques	(maladie de Crohn et rectocolite ulcérohémorragique)
+entéropathie évolutive 	(maladie/s maladie de Crohn , rectocolite hémorragique)
+entités ophtalmologiques 	(hétérochromie de Fuchs , ophtalmie sympathique , uvéite phaco-antigénique)
+enzyme de conversion de l’angiotensine	(IEC)
+enzyme de conversion de l’angiotensine	(IEC)
+enzymes	notamment les polymérases
+enzymes	notamment les polymérases
+éphaptique	(transmises d’une fibre adjacente en un point quelconque de l’axone)
+épidurite , troubles rachidiens statiques	(trouble/s lésions susceptibles de provoquer des complications neurologiques)
+étiologies infectieuses	(maladie/s virales , bactériennes , fongiques , parasitaires)
+facteur soluble TIMP-1	fait partie de protéines inhibitrices des métalloprotéases de la matrice extracellulaire
+facteurs  rhumatoïdes 	(FR)
+facteurs de croissance	tels que la thrombopoïétine par l' héparine
+facteurs de croissance 	la thrombopoïétine par l' héparine
+facteurs de risque	tels que l’âge et l’HTA
+facteurs de risques cardiovasculaires	tels que le contrôle de l’HTA , de la dyslipidémie et l’arrêt du tabac
+facteurs de transcription	tels que d'autres les récepteurs activés par les proliférateurs de peroxysomes
+facteurs de transcription dans les neurones striataux de la voie directe 	tels que dFosB , un FRA ‘Fos-related antigen' ( Cenci , 2002 ; Tekumalla , 2001 ) , ou CREB 
+facteurs hormonaux	notamment telle que l’aldostérone pour la kaliémie 
+facteurs susceptibles d’interférer avec l’alimentation	tels que trouble/s l’isolement , le mauvais état buccodentaire , les difficultés économiques , les troubles psychocognitifs et la comorbidité
+famille d' antithrombotiques	telle que les AT directes comme l' hirudine ( lépirudine ou désirudine ).
+FixM/F	est appelé/e Le rapport entre la fixation maximale tumorale et le fond hépatique
+fluides biologiques	tels que sérum , plasma , urine , liquide pleural… , ou extraits protéiques bruts issus de tissus ou cellules
+fonction  physiologique	appelé/e le remodelage osseux
+formes  cliniques  et  neuropathologiques  rares	appelé/e d' autres  formes frontières
+formes de neurolupus	(trouble/s atteintes psychiatriques , troubles cognitifs , autres atteintes neurologiques centrales , voire même périphériques)
+fraction  d'  éjection  ventriculaire  gauche	FE
+gènes	, ompF , ompC et ompR
+gènes  de  facteurs  orexigènes	(NPY , AgRP)
+gènes liés à biologie neurale	tels que NEFL , GABRA1 , SYT1 et SLC12A
+gènes liés notamment à  la synthèse	(eef1?2 , eif5 , uba56 , nudt6-gfg , protéines ribosomales P34 , S2 , S9 , L8 , L8a , L13a , L14 , L32 , ubiquitine-L40)
+germes	tels que d'autres Propionibacterium acnes
+GINA	Global Initiative for Asthma
+gonocytes	appelé/e les cellules germinales
+graisses insaturées 	(maladie/s huile d' olive )
+granulocyte agglutination test 	[GAT]
+granulome tuberculoïde	(granulome épithélioïde et giganto-cellulaire sans nécrose caséeuse)
+granulomes choroïdiens	(choroïdite)
+groupements méthyl	(par exemple, SAM)
+hémogramme	(maladie/s hématocrite pour rechercher une complication)
+hémopathies lymphoïdes	(affection/s leucémie lymphoïde chronique , lymphome)
+hémopathies malignes	(essentiellement syndromes lymphoprolifératifs)
+hirudine	(lépirudine ou désirudine)
+histone-désacétylases	(HDAC)
+HNA-2 	étant défini par des iso-anticorps produits par des individus dont les polynucléaires neutrophiles ( PNN ) n’expriment pas cette glycoprotéine
+HTAP	: hypertension artérielle pulmonaire
+HTAP	hypertension artérielle pulmonaire
+HTLV-1	(retrovirus responsable de la paraparésie spastique tropicale)
+HVA	(4-hydroxy-3-méthoxyphenylacetique acide , Sigma)
+hybridation  in  situ  par  fluorescence	(FISH)
+hybridation  in  situ  par  fluorescence	(FISH)
+hydrocéphalie	maladie/s anomalies congénitales de la charnière , maladie de Paget 
+hyperexcitabilité	(une sensibilisation)
+hyperostose vertébrale	(maladie/s maladie de Forestier)
+hyperostoses primitives	(maladie/s maladie de Köhler)
+hypospadias	(abouchement ectopique de l' urètre)
+hypospadias	(abouchement ectopique de l' urètre)
+hypothyroïdie congénitale	(maladie/s HC)
+hypothyroïdie est la plus profonde	(trouble/s hypothyroïdie est la plus profonde)
+iatrogène	(la corticothérapie)
+IgE	: immunoglobulines E
+IgE	immunoglobulines E
+imagerie    radiographies  comparatives  des  hanches  de  face  	(consiste cliché de bassin )
+imagerie  par  résonance  magnétique	(IRM)
+imagerie par résonance magnétique	(IRM)
+immunodépression	(maladie/s sida , maladie systémique , traitements immunosuppresseurs)
+immunodépression	(sida , maladie systémique , traitements immunosuppresseurs)
+immunoglobulines	(Ig)
+immunoglobulines	(Ig)
+immunosuppresseurs	notamment méthotrexate
+immunosuppresseurs	, notamment prednisolone
+immunosuppresseurs	, notamment prednisolone
+immunosuppresseurs	(azathioprine ou cyclosphosphamide)
+immunosuppresseurs	tels que l’azathioprine
+infarctus du myocarde	(IDM)
+infarctus du myocarde	(IDM)
+infection	(trouble/s syndrome inflammatoire , fièvre , troubles de la vigilance , céphalée)
+infection chronique de l’os et/ou des structures adjacentes 	(ostéomyélite , spondylite , discite , ostéite)
+infection opportuniste	notamment mycobactériose , candidose , histoplasmose
+infections virales	(EBV , HSV)
+infliximab	(maladie/s Rémicade®)
+inhibiteur	il s'agit de KU-55933®
+inhibiteurs	tels que le F4P ou le transforming growth factor
+INNTR	(par exemple névirapine ou éfavirenz)
+Insuffisance  médullaire	définition : insuffisance de production des éléments figurés du sang par anomalie de l' hématopoïèse qualitative ou quantitative
+insuffisance rénale chronique	définie par une clairance de la créatinine inférieure à 60 mL/min
+insuffisance rénale chronique	définie une clairance de la créatinine inférieure à 60 mL/min
+interleukines	(IL-5)
+intervenants  paramédicaux 	(maladie/s kinésithérapeutes , ergothérapeutes , orthophonistes , podologues )
+interventions pharmaceutiques	(IP)
+intralobulaire	(opacités linéaires entrecroisées en une fine réticulation et/ou aspect de verre dépoli)
+IRC	: insuffisance rénale chronique
+IRC	: insuffisance respiratoire chronique
+IRC	: insuffisance rénale chronique
+IRC	insuffisance respiratoire chronique
+itraconazole	(ITZ)
+kilobases	(maladie/s Kb)
+l'  acide  désoxyribonucléique	(AND)
+l'  acide  désoxyribonucléique	: ADN
+L'  alkylation  des  bases	est un un phénomène qui a lieu naturellement dans les cellules , notamment à travers les méthylations de bases
+L'  alkylation  des  bases	est un un phénomène qui a lieu naturellement dans les cellules , notamment à travers les méthylations de bases
+L'  alkylation  des  bases	ou l' ajout d' une chaine alkylée
+L'  alkylation  des  bases	ou l' ajout d' une chaine alkylée
+l'  american  college  of  rheumatology	(ACR)
+l'  amphotéricine  B  	(AMB)
+l'  exposition  à  divers  métaux 	(mercure , cuivre , zinc , aluminium , manganèse)
+L'  hépatite  C	est une maladie/s maladie progressive
+L'  hépatite  C	est une maladie/s une maladie progressive
+l'  hépatite  C	était encore appelée hépatite non-A non-B … au début des années 80
+l'  hépatite  C 	était encore appelée hépatite non-A non-B … au début des années 80
+L'  hyperparathyroïdie  primitive	est une affection/s une affection relativement fréquente
+l'  hypocinésie	(réduction de l' amplitude des mouvements)
+l'  hypophonie	(diminution du volume de la voix)
+l'  hypophonie	(diminution du volume de la voix)
+l'  intrusion  dans  l'  état  d'  éveil  d'  aspects  physiologiques  du  sommeil  paradoxal 	tels que une chute du tonus musculaire ou des mouvements rapides oculaires .
+l'  itraconazole	(ITZ)
+l'  ulcération  	est une image d' addition localisée de moins de 5 mm de largeur
+l' activité des méthyltransférases de l' ADN	(DNMT)
+L' amitiptyline	est un trouble/s antidépresseur sédatif
+l' antithrombine 	l' inhibiteur physiologique naturel de la plupart des sérines-protéases
+L' asthme	est une maladie/s maladie de la barrière épithéliale bronchique , le plus souvent associée à l' allergie chez l' enfant
+L' asthme	est une maladie/s maladie de la barrière épithéliale bronchique qui est souvent associée à l' allergie chez l' enfant
+L' emphysème  pulmonaire	a été défini comme un espace d' hypodensité bien contrasté avec le parenchyme pulmonaire
+L' hépatite  C	est une maladie/s une maladie chronique grave
+L' hépatite  C 	est une maladie/s une maladie chronique grave
+l' osmothérapie	mannitol ou sérum salé hypertonique
+L' ostéoporose	est une maladie/s maladie du remodelage osseux caractérisée par une augmentation de la résorption par rapport à la formation osseuse
+L' ubiquitination	consiste en l' ajout d' un peptide d' ubiquitine sur une protéine
+L' ubiquitination	consiste en l' ajout d' un peptide d' ubiquitine sur une protéine
+L’amylose AL	maladie/s la maladie des dépôts d’immunoglobulines monoclonales
+L’amylose AL	et les autres atteintes glomérulaires
+l’angéite granulomateuse allergique	est un/e affection/s une affection rare et parmi les moins fréquentes des vascularites systémiques
+L’anxiété	se définit comme trouble/s l’anticipation d’un danger ou d’un incident se manifestant par une appréhension , une dysphorie et comprend l’anxiété généralisée , les troubles paniques et les troubles obsessionnels compulsifs
+l’apoptose Fas	(maladie/s CD95)
+L’atteinte glomérulaire du myélome	se manifeste par une protéinurie composée principalement d’albumine
+L’atteinte médullaire	se traduit par trouble/s une para- ou une tétraparésie plus ou moins sévère associée à des troubles sensitifs qui peuvent toucher tous les modes , des troubles sphinctériens ( deux tiers des cas ) et un niveau sensitif
+L’atteinte rénale	était définie par l’existence d’une protéinurie ou d’une insuffisance rénale déterminée en fonction du DFG ( insuffisance rénale stade II - DFG entre 60 et 90 ml/min/
+l’échelle de Montréal Cognitive Assesment 	(MoCA)
+l’échographie et/ou la scintigraphie	signifie la scintigraphie thyroïdienne , moins disponible , est loin d’être systématique
+L’EH	est un/e maladie/s une maladie , si elle existe , rare , parfois mortelle
+L’élastance artérielle	est définie par le ratio Pes/VES où Pes est la pression VG télésystolique
+L’élastance artérielle	(Ea , inverse de la compliance artérielle)
+L’embolie pulmonaire	est un/e maladie/s une maladie fréquente
+l’enzyme de conversion de l’angiotensine	[ECA]
+l’épilepsie	est également l’une des affection/s l’une des affections les plus fréquentes
+L’évolution chronique	(maladie/s persistance d’une maladie active pendant une durée supérieure à deux an)
+l’existence d’activités des fibres nociceptives d’origine ectopique	(générées à distance du segment initial de l’axone)
+L’HAD	est un/e un peptide de neuf acides aminés fabriqué dans les neurones magnocellulaires des noyaux supra-optiques et paraventriculaires de l’hypothalamus
+L’HAD	est un/e un peptide de neuf acides aminés fabriqué dans les neurones magnocellulaires des noyaux supra-optiques et paraventriculaires de l’hypothalamus
+L’HAD	aussi appelée AVP
+L’HAD	aussi appelée AVP
+L’HAD	aussi appelée AVP
+L’HAD	aussi appelée AVP
+L’hémophilie A acquise	est un/e maladie/s une maladie hémorragique liée au développement d’un auto-anticorps dirigé contre le facteur VIII
+L’hémophilie A acquise	(HA)
+L’hémophilie A acquise	(HA)
+l’hyperosmolarité diabétique	est un/e affection/s une affection dont le pronostic reste sévère
+l’hyperosmolarité diabétique	est un/e affection/s une affection dont le pronostic reste sévère
+L’hypoglycémie	est définie par une glycémie capillaire ou veineuse inférieure à 3 ,3 mmol/L
+L’hypoglycémie	est définie par une glycémie capillaire ou veineuse inférieure à 3 ,3 mmol/L
+L’hyponatrémie	(sodium plasmatique = 135 mmol/L)
+L’hyponatrémie	est définie par une natrémie inférieure à 135 mmol/L 
+L’hyponatrémie	est définie par une natrémie inférieure à 135 mmol/L ; elle est considérée comme modérée jusqu’à 130 mmol/L et profonde au-dessous de 120 mmol/L
+L’hyponatrémie	est l'un trouble/s un des troubles hydroélectrolytiques les plus fréquemment observés à l’hôpital
+L’hyponatrémie	est l'un l’un des troubles hydroélectrolytiques les plus fréquemment observés à l’hôpital
+L’IC-FEP	considérée comme  maladie/s une maladie de la diastole ventriculaire gauche ( IC diastolique )
+l’imagerie corrélative	(dite « hybride » ou « multimodalité »)
+l’imagerie corrélative	(par exemple la TDM (pour la quantification et la localisation anatomique ) , l’IRM , la spectroscopie par résonance magnétique)
+l’imagerie corrélative	la TDM (pour la quantification et la localisation anatomique ) , l’IRM , la spectroscopie par résonance magnétique
+l’imagerie corrélative , de fusion ou « multi-modalités » 	(TEMP/TDM et TEP/TDM)
+l’imagerie nucléaire 	incluent la scintigraphie au gallium ou la tomodensitométrie par émission de positons marqués au fluorodéoxyglucose ( FDG-TEP )
+l’index pronostique international	(IPI)
+L’infiltration éosinophile	définie par la présence d’au moins 20 PNE au fort grossissement
+L’insuffisance rénale chronique	définie par une clairance de la créatinine inférieure à 60 mL/min
+l’obstruction ventilatoire	définie par la baisse du ratio VEMS/CV
+l’uvéite	est un/e maladie/s une manifestation particulière d’une maladie générale , qu’elle soit inaugurale , secondaire ou concomitante aux signes extra-oculaires 
+L’uvéite	regroupe maladie/s un large ensemble de maladies inflammatoires de l’uvé
+L’uvéite antérieure	définie par une atteinte de l’iris et des corps ciliaires
+la    chorée  de  Huntington	est une trouble/s pathologie d' hyper-motricité
+la    chorée  de  Huntington 	est une pathologie d' hyper-motricité
+la    maladie  de  Parkinson	(maladie/s MP)
+la  capacité  pulmonaire  totale	pour centCPT
+La  fibromyalgie	est définie par trouble/s un syndrome douloureux chronique de l' appareil locomoteur associé à des manifestations fonctionnelles très variées : troubles du sommeil , céphalée , points douloureux , seuil de douleur abaissé , fatigue générale , troubles digestifs , anxiété générale , dépression
+la  fissure	est une image d' addition linéaire de moins de 1 mm de largeur
+La  fusion  d'  images	consiste à à mettre en correspondance des images d' une même modalité d' imagerie ( fusion monomodale ) acquises à des instants différents ou bien des images de modalités d' imagerie différentes ( fusion multimodale ) 
+La  fusion  rigide	consiste à rechercher 3 rotations et 3 translations permettant de superposer au mieux les images à fusionner
+la  grande  circulation	appelé/e circulation systémique
+la  maladie  d'  Alzheimer 	maladie/s  la maladie neurodégénérative
+La  Maladie  de  Parkinson	(maladie/s MP)
+La  maladie  de  Parkinson	est un/e maladie/s une maladie neuro-dégénérative d' hypo-motricité
+la  maladie  de  Parkinson	représente maladie/s l' affection neurodégénérative la plus répandue , après la maladie d' Alzheimer
+la  maladie  de  Parkinson	représente maladie/s l' affection neurodégénérative la plus répandue , après la maladie d' Alzheimer
+la  maladie  de  Parkinson 	l' affection neurodégénérative la plus répandue , après la maladie d' Alzheimer
+la  maladie  de  Parkinson  	représente l' affection neurodégénérative la plus répandue , après la maladie d' Alzheimer
+La  maladie  lupique	est un/e maladie/s une maladie de toute une vie
+la  moelle  épinière	(myélite)
+La  MP	est la maladie/s  la seule maladie neuro-dégénérative pour laquelle un traitement de substitution à base du neuromédiateur manquant s' est révélé efficace
+La  MP	est un/e maladie/s un trouble moteur
+La  MP	est une maladie/s maladie neuro-dégénérative
+La  MP	décrit ... sous le nom de shaking palsy ( paralysie agitante )
+la  MP	est une pathologie d' hypo-motricité
+la  MP	est une pathologie d' hypo-motricité
+La  narcolepsie	(maladie/s maladie de Gélineau)
+La  narcolepsie  	est une cause fréquente de somnolence chronique caractérisée par l' intrusion dans l' état d' éveil d' aspects physiologiques du sommeil paradoxal
+La  névrite  optique	est une affection/s une affection d' origine inflammatoire du nerf optique , fréquente
+la  notion  de  névrite  optique  rétrobulbaire	définition la neuropathie optique s' accompagne d' un aspect normal de la papille lors de l' examen clinique initial du fond de l' œil
+La  polyarthrite  rhumatoïde	est la maladie/s la plus fréquente des maladies auto-immunes humaines
+La  polyarthrite  rhumatoïde	est une maladie/s une maladie systémique qui , en plus de l' atteinte articulaire destructrice , affecte les poumons , le coeur , l' endothélium vasculaire et s' accompagne d' un risque infectieux élevé
+La  polyarthrite  rhumatoïde	(PR)
+La  polyarthrite  rhumatoïde  (  PR  )  et  le  lupus  érythémateux  systémique  (  LES  )	sont des maladie/s des maladies auto-immunes d' origine multifactorielle
+La  polyarthrite  rhumatoïde  (  PR  )  et  le  lupus  érythémateux  systémique  (  LES  ) 	sont des maladies auto-immunes d' origine multifactorielle , dont le processus pathogène résulte de l' interaction entre une combinaison de facteurs génétiques et de facteurs environnementaux
+La  protéine  IHF	définie ; est la la NAP présentant la plus forte spécificité de fixation à l' ADN avec une séquence consensus clairement définie
+La  protéine  IHF	définie ; est la la NAP présentant la plus forte spécificité de fixation à l' ADN avec une séquence consensus clairement définie
+La  protéine  p53	aussi appelée protéine gardienne du génome
+La  protéine  p53	aussi appelée protéine gardienne du génome
+la  protéine  TAR  DNA-binding  Protein  43	(TDP-43)
+la  régulation  des  systèmes  de  réparation	notamment la réponse adaptative cellulaire
+la  régulation  des  systèmes  de  réparation	notamment la réponse adaptative cellulaire
+la  rigidité  musculaire  	(résistance à un mouvement passif des membres)
+La  sclérose  latérale  amyotrophique	est l' maladie/s l' affection la plus fréquente des maladies du neurone moteur
+La  sclérose  latérale  amyotrophique	(SLA)
+La  sclérose  latérale  amyotrophique 	est la l' affection la plus fréquente des maladies du neurone moteur
+La  SEP	constitue affection/s un prototype d' affection chronique nécessitant une prise en charge multidisciplinaire bien coordonnée entre les différents intervenants
+La  SEP	constitue affection/s un prototype d' affection chronique nécessitant une prise en charge multidisciplinaire bien coordonnée entre les différents intervenants
+la  splénomégalie  myéloïde	ou myélofibrose primitive
+la  Trichothiodystrophie	est une maladie autosomale récessive
+La  trichothiodystrophie  ,  tout  comme  le  Syndrome  de  Cockayne  et  le  Xeroderma  pigmentosum	est une maladie/s maladie autosomale récessive
+La  trichothiodystrophie  ,  tout  comme  le  Syndrome  de  Cockayne  et  le  Xeroderma  pigmentosum	est une maladie/s maladie autosomale récessive
+La  trichotiodystrophie	est une maladie/s maladie génétique très rare ( sa prévalence n' est pas connue )
+La  trichotiodystrophie	est une maladie/s maladie génétique très rare ( sa prévalence n' est pas connue )
+La  trichotiodystrophie	(TTD)
+La  trichotiodystrophie 	est une maladie autosomale récessive
+la  Tyrosine  Hydroxylase	(TH)
+la  Tyrosine  Hydroxylase  	(TH)
+La Bartonellose	ou maladie/s maladie des griffes du chat
+La CAIX 	est un/e un marqueur de l’hypoxie , notamment en cancérologie
+La cellule  endothéliale	(CE)
+La CMI	est définie par une inhibition complète de la pousse pour l' AMB et une inhibition marquée pour les azolés et la 5-fluorocytosine
+la concentration de l' antibiotique est supérieure à la CMI du germe 	(antibiotique dit temps dépendant)
+la dégradation 	(psma2 , psmd1 , uba52 , ube2i , prei3 , trypsine Vb , cma1 , ubiquitine-L40)
+la désacétylation des substrats chromatiniens par certaines histone-désacétylases	(HDCA)
+La DM1	peut être considérée comme maladie/s une maladie de l’ARN
+La dystrophie  myotonique	est une maladie/s une maladie multisystémique associant un déficit musculaire , une myotonie et un grand nombre de dysfonctions d' organe , dont les plus préoccupantes sont cardiaques et respiratoires
+La dystrophie  myotonique	(DM1)
+La dystrophie  myotonique	ne maladie multisystémique associant un déficit musculaire , une myotonie et un grand nombre de dysfonctions d' organe , dont les plus préoccupantes sont cardiaques et respiratoires
+La dystrophie  myotonique  de  type  1	est une maladie/s une maladie de transmission autosomique dominante liée à une expansion trinucléotidique CTG instable dans la partie 3? non codante du gène DMPK
+La dystrophie  myotonique  de  type  1	(DM1)
+La dystrophie myotonique	apparaît comme maladie/s une maladie systémique
+La dystrophie myotonique de type 1	est un/e maladie/s une maladie héréditaire de transmission autosomique dominante
+La dystrophie myotonique de type 1	(DM1)
+La dystrophie myotonique de type 2	(DM1)
+La FE	est un/e maladie/s une maladie rare , sporadique , et d’étiologie inconnue
+la fibrose médiastinale	(post-irradiation , post-infectieuse notamment tuberculeuse)
+la forme d'une uvéite granulomateuse	d'autres maladie/s uvéites infectieuses ( virus du groupe herpès , tuberculose , syphilis , toxoplasmose , maladie de Lyme… ) , maladies générales ( sclérose en plaques , maladie de Vogt-Koyanagi-Harada ) , entités ophtalmologiques ( hétérochromie de Fuchs , ophtalmie sympathique , uvéite phaco-antigénique ) , uvéites médicamenteuses et pseudo-uvéites ( lymphome oculocérébral )
+La gastroentérite à éosinophiles	est un/e affection/s une affection rare , bénigne , caractérisée par une infiltration d’une ou de plusieurs couches du TD par des PNE
+La gastroentérite à éosinophiles	(GEE)
+La gastroentérite à éosinophiles	(GEE)
+La GR	est définie par la présence d’au moins un granulome identifié sur la ponction biopsie rénale
+La guérison	est affirmée maladie/s affirmée en l’absence de récidive de la maladie trois ans après l’arrêt de tout traitement
+La guérison	est définie par maladie/s la disparition des signes de la maladie
+La maladie de Chagas	(maladie/s infection parasitaire à Trypanosoma cruzi)
+La maladie de Chagas	(maladie/s infection parasitaire à Trypanosoma cruzi)
+La maladie de Fabry	est un/e maladie/s une maladie héréditaire du métabolisme , de transmission liée à l’X , appartenant au groupe des sphingolipidoses
+la maladie de Kawasaki	ou maladie/s syndrome adéno-cutanéo-muqueux
+la maladie de Kawasaki	(MK)
+la maladie de Kawasaki 	(MK)
+la maladie de Kawasaki 	correspond correspond sur le plan nosologique à une vascularite des vaisseaux de moyen calibre affectant avec prédilection l’enfant d’âge préscolaire
+la maladie des chaînes légères	(maladie/s maladie de Randall)
+la maladie des chaînes légères	ou light chain deposition disease
+la métalloprotéinase 1	(maladie/s TIMP-1)
+La MP	est un/e maladie/s une maladie neuro-dégénérative progressive qui touche les neurones dopaminergiques de la substance noire
+la myocardite	définie comme une « inflammation du myocarde » associée ou non à une nécrose myocytaire
+la myocardite	définie comme myocardite active , frontière , persistante , en voie de guérison , ou guérie
+la myocardite	reste définie comme une « inflammation du myocarde »
+La narcolepsie	est une affection/s affection chronique caractérisée par une tétrade symptomatique
+La neuromyélite  optique  de  Devic	est une  maladie/s une maladie inflammatoire du système nerveux central associant une atteinte du nerf optique ( névrite optique ) et de la moelle épinière ( myélite )
+la neutropénie cyclique	aussi appelé/e hématopoïèse cyclique autosomique dominante
+La pellagre	est un/e maladie/s une maladie due principalement à un déficit en vitamine B3 ou niacine
+la physiologie neuronale	(la régulation locale de la synthèse protéique)
+La POI	est un/e maladie/s une complication rare mais potentiellement grave du LES qui peut inaugurer la maladie ou être la seule manifestation d’une poussée
+la ponction biopsie rénale	(PBR)
+la ponction biopsie rénale 	(PBR)
+la poussée « cutanéo-articulaire »	est l' maladie/s l’expression clinique la plus fréquente des poussées lupiques
+La PR	étant une maladie/s une maladie chronique
+La présence d’un déficit neurosensorie	définie l’existence d’un déficit auditif ou visuel , lors de l’examen médical d’entrée.
+la prise d' un médicament sédatif	(trouble/s consommation importante de benzodiazépines chez les parkinsoniens )
+la prise en charge des facteurs de risques cardiovasculaires	tels que le contrôle de l’HTA , de la dyslipidémie et l’arrêt du tabac
+La psychose	est définie par une altération sévère de la perception de la réalité caractérisée par des hallucinations et des illusions non critiquées
+La résistance  clinique	peut être définie comme l' inefficacité thérapeutique d' un traitement antifongique au cours d' une infection fongique
+La résistance au traitement	définie par la persistance ou la recrudescence de la fièvre plus de 36 heures après l’administration de l’injection d’IgIV
+La rigidité 	, définie comme maladie/s une résistance aux mouvements passifs
+La rigidité 	est déifnie commme maladie/s une résistance aux mouvements passifs
+La sarcoïdose	est un/e maladie/s une maladie systémique chronique d’étiologie inconnue
+La sarcoïdose	est un/e une cause fréquente d’uvéite
+La sarcoïdose	est un/e maladie/s une maladie granulomateuse multisystémique d’origine inconnue atteignant préférentiellement les organes médiastinopulmonaires
+La sarcoïdose	est un/e maladie/s une maladie systémique caractérisée par la formation de granulomes immunitaires au niveau des organes atteints
+La sarcoïdose	est un/e affection/s une affection granulomateuse multiviscérale , de cause inconnue , caractérisée par une infiltration tissulaire constituée de granulomes tuberculoïdes à cellules géantes , sans nécrose caséeuse associée
+La sarcoïdose	est un/e maladie/s une maladie rare et sa forme familiale l’est , a fortiori , plus encore
+La sarcoïdose , la maladie de Crohn et le syndrome Blau	sont maladie/s des maladies inflammatoires granulomateuses chroniques
+La sclérose  en  plaques	est une maladie/s maladie neuro-inflammatoire
+La sclérose  en  plaques	(SEP)
+La sclérose  en  plaques 	est une maladie neuro-inflammatoire
+La sclérose  latérale  amyotrophique	est une maladie/s une maladie neurodégénérative rare d' étiologie indéterminée 
+La sclérose  latérale  amyotrophique	(SLA)
+La sclérose  latérale  amyotrophique 	est une maladie neurodégénérative rare d' étiologie indéterminée
+La SEP	constitue affection/s un prototype d' affection chronique nécessitant une prise en charge multidisciplinaire bien coordonnée entre les différents intervenants
+la sonde	est appelé/e par convention Le brin d' ADN de séquence connu , et dont la séquence est spécifique d' un gène de l' espèce étudiée
+la souche CF7968	(appelé/e K12)
+la souche CF7968	(appelé/e K12)
+la spectrométrie de masse en temps de vol	consiste à accélérer tous les ions à la même énergie cinétique.
+la spondylarthrite ankylosante 	(SPA)
+La STB	est définie par une triade clinique : déficience mentale , épilepsie et angiofibrome de la face
+la thyroid stimulating hormone	(maladie/s TSH)
+La tomographie par émission de positons 	(TEP)
+La tomographie par émission de positons au 18 fluorodéoxyglucose	(TEP-18FDG)
+la triade clinique	: syndrome confusionnel , troubles oculomoteurs , anomalies de la marche et de l’équilibre
+la triade de symptômes moteurs caractéristiques de la maladie de Parkinson 	(maladie/s akinésie , rigidité et tremblement de repos)
+la triade de symptômes moteurs caractéristiques de la maladie de Parkinson 	(maladie/s akinésie , rigidité et tremblement de repos)
+la tuberculose et la syphilis	notamment d'autres infections bactériennes non exceptionnelles
+La tubulopathie proximale	se manifeste par un syndrome de Fanconi
+Laboratoire de Cancérologie Expérimentale	(LCE)
+Laboratoire de Cancérologie Expérimentale	(LCE)
+l'autonomie	désigne la capacité à prendre des décisions et à en assurer la responsabilité.
+le    nom  de  Xeroderma	, maladie/s ce mot latin signifiant littéralement « en parchemin
+le    nom  de  Xeroderma	maladie/s ce mot latin signifiant littéralement « en parchemin
+le  cortex  cérébral	(ou trouble/s néocortex)
+le  domaine  5Y-CAP	appelé/e il se retrouve dans un grand nombre de protéines capables de lier l' ADN , dont la protéine CAP ( Catabolite Activator Protein )
+le  domaine  5Y-CAP	appelé/e il se retrouve dans un grand nombre de protéines capables de lier l' ADN , dont la protéine CAP ( Catabolite Activator Protein )
+le  lupus  érythémateux  systémique  	(LES)
+le  neuropeptide  hypocrétine	appelé/e orexine
+le  paramètre  ls 	(c' est-à-dire maladie/s ; définit comme « s » pour sibling , c' est-à-dire frères ou soeurs, définit comme le rapport de la prévalence de la maladie chez les apparentés du premier degré sur la prévalence de la maladie dans la population générale)
+le  segment  interne  du  pallidum	appelé/e noyau entopédonculaire
+le  segment  interne  du  pallidum	appelé/e noyau entopédonculaire
+Le  syndrome  de  Cockayne	est une maladie/s maladie très rare
+Le  syndrome  de  Cockayne	maladie/s une maladie très rare
+le  vivant	définition : toute entité biologique présentant la capacité de se reproduire
+le « Glasgow coma scale »	définie l' échelle définie par l' équipe de Glasgow
+le « Glasgow coma scale »	(GCS)
+Le CINCA 	(chronic , infantile , neurological , cutaneous and articular)
+Le CINCA ( chronic , infantile , neurological , cutaneous and articular )	appelé/e syndrome appelé aussi NOMID ( Neonatal infantile Onset Multisystem Inflammatory Disease )
+Le Cognitive Symptoms Inventory 	est un/e trouble/s un autoquestionnaire portant sur des activités quotidiennes nécessitant un « effort » cognitif qui permettrait de dépister les troubles [4] and [52]
+Le Cognitive Symptoms Inventory 	(CSI)
+Le Cognitive Symptoms Inventory 	(CSI)
+Le déficit  en  récepteur  de  l'  IFN-gamma  comme  celui  en  IL-  12  et  en  récepteur  de  l'  IL-12	sont des maladie/s des maladies génétiques nouvellement décrites qui touchent l' enfant et l' adulte et qui sont marquées par une susceptibilité sévère et sélective vis-à-vis des mycobactéries peu virulentes
+Le déficit  en  récepteur  de  l'  IFN-gamma  comme  celui  en  IL-  12  et  en  récepteur  de  l'  IL-12	sont des des maladies génétiques nouvellement décrites qui touchent l' enfant et l' adulte et qui sont marquées par une susceptibilité sévère et sélective vis-à-vis des mycobactéries peu virulentes
+Le dysfonctionnement cognitif	est défini comme un déficit dans un ou plusieurs des huit domaines suivants : l’attention simple et complexe , la mémoire ( apprentissage et rappel ) , le processus visuospatial , le langage ( fluence verbale ) , le raisonnement ( résolution de problèmes ) , la vitesse psychomotrice et les fonctions exécutives ( planifier , organiser , séquencer )
+le facteur Stuart 	(facteur Xa)
+le gène	(Pfrabgdi)
+Le génome viral	consiste en un ARN simple
+le liquide-céphalorachidien 	LCR
+Le lupus érythémateux systémique	est un/e maladie/s une maladie auto-immune systémique touchant préférentiellement la peau et les articulations
+Le lupus érythémateux systémique	(LES)
+Le lupus érythémateux systémique	(LES)
+Le paludisme	est la maladie/s la maladie parasitaire la plus fréquente au monde
+Le paludisme	est la maladie/s la maladie parasitaire la plus fréquente au monde
+Le paracétamol	(par exemple Efferalgan® et Di-antalvic® ou Zaldiar® ou Ixprim®)
+Le PTI	est un/e affection/s une affection auto-immune
+Le PTT 	est défini par l’association de cinq signes : anémie hémolytique mécanique avec schizocytes , thrombopénie , anomalies neurologiques , fièvre et anomalies de la fonction rénale
+le rhumatisme psoriasique	(RP)
+Le riluzole	est la maladie/s molécule
+le SIAD	définition correspond à une sécrétion d’HAD détectable en l’absence de stimulus osmotique ou volémique
+le SIAD	définition correspond à une sécrétion d’HAD détectable en l’absence de stimulus osmotique ou volémique
+le SIAD est sévère	c’est-à-dire l’osmolarité urinaire minimale est élevée ( 800–1000 mosmol/kg ) et la charge osmolaire faible notamment par inappétence
+le stress 	somatique ou psychique
+le syndrome de Susac	notamment est le surdité vasculaire
+le syndrome de vasoconstriction cérébrale réversible	(SVCR)
+Le syndrome de vasoconstriction cérébrale réversible	est un/e affection/s une affection caractérisée par une vasoconstriction prolongée , mais spontanément réversible des artères cérébrales , survenant de façon spontanée ou dans des circonstances particulières ( post-partum , utilisation de substances vasoactives )
+Le traitement de la maladie digestive	(maladie/s corticoïdes , azathioprine , méthotrexate)
+Le transforming growth factor beta	(TGFß)
+Le traumatisme crânien grave	défini un GCS = 8 , ce qui correspond à l' absence de réponse ( verbale ou motrice ) aux ordres simples
+Le type  de  chondropathie	était défini comme suit : l' amincissement cartilagineux est une perte de substance de plus de 5 mm de largeur dans le plan étudié ou une inversion du gradient cartilagineux
+le virus de  l'  immunodéficience  humaine	(maladie/s VIH)
+le virus de l' immunodéficience féline	(VIF)
+le virus de l' immunodéficience féline	(VIF)
+le virus de l’hépatite C	(VHC)
+le virus de l’immunodéficience humaine 	(VIH)
+le virus de la leucémie humaine de cellules T	(HTLV)
+le virus de la leucémie humaine de cellules T 	(HTLV)
+le virus de la maladie de Carré	(maladie/s CDV)
+les  atteintes  non  artéritiques  du  nerf  optique	ou maladie/s « idiopathiques » 
+les  bases  alkylées	notamment les alkylations en N7 de la guanine et N3 de l' adénine
+les  bases  alkylées	notamment les alkylations en N7 de la guanine et N3 de l' adénine
+les  CE  cérébrales  des  molécules  d'  adhérence	(notamment ICAM-1 et VCAM-1)
+les  gènes  de  facteurs  anorexigènes	(MCH-melanin concentrating hormone , leptine , mélanocortine)
+Les  infections  aspergillaires  invasives	sont des maladie/s des maladies sévères
+les  maladies  génétiques	comme maladie/s Xeroderma pigmentosum , et le Syndrome de Cockayne
+les  maladies  génétiques	comme maladie/s Xeroderma pigmentosum , et le Syndrome de Cockayne
+les  moyens  d'  imagerie	tels que l' échographie et l' IRM
+Les  parasomnies  du  sommeil  paradoxal	: trouble/s troubles du comportement du sommeil paradoxal , paralysie du sommeil
+Les  parasomnies  du  sommeil  paradoxal 	: troubles du comportement du sommeil paradoxal , paralysie du sommeil .
+les  protéines	comme notamment la ligase III et la polymérase ?
+les  protéines  désiminées	ou maladie/s « citrullinées »
+les  syndromes  de  Werner	(dysfonctionnement d' une hélicase entraînant un vieillissement prématuré et le développement de pathologies liées au vieillissement)
+les  syndromes  de  Werner	(dysfonctionnement d' une hélicase entraînant un vieillissement prématuré et le développement de pathologies liées au vieillissement)
+les  syndromes  de  Werner	(dysfonctionnement d' une hélicase entraînant un vieillissement prématuré et le développement de pathologies liées au vieillissement)
+les  syndromes  de Bloom	(échange d' ADN trop fréquent amenant à un retard de croissance et de nombreux cancers)
+Les  syndromes  parkinsoniens	sont définis par trouble/s une association de six troubles moteurs particuliers : le tremblement de repos , la rigidité musculaire , l' akinésie , une posture fléchie ( Figure 1 ) , le phénomène de freezing , et une instabilité posturale
+les  syndromes de  Bloom	(échange d' ADN trop fréquent amenant à un retard de croissance et de nombreux cancers)
+les  synucléinopathies	(maladie de Parkinson , atrophie multisystématisée)
+les  synucléinopathies   	(maladie de Parkinson , atrophie multisystématisée)
+Les  troubles  de  l'  éveil  ou  les  parasomnies  du  sommeil  lent  profond	: trouble/s éveils confusionnels , somnambulisme , terreur nocturne
+Les  troubles  de  l'  éveil  ou  les  parasomnies  du  sommeil  lent  profond 	: éveils confusionnels , somnambulisme , terreur nocturne
+Les  troubles  de  la  transition  veille-sommeil  ou  sommeil-veille	: trouble/s rythmies du sommeil , somniloquie
+les accidents périphériques	tels que l' hypoxémie ou l' hypotension artérielle
+les accidents vasculaires cérébraux	(AVC)
+les affections articulaires intermittentes chez l' enfant 	, affection/s l' arthrite récurrente familiale et le syndrome de Marshall.
+Les anomalies électrocardiographiques	sont trouble/s les troubles de la conduction auriculo-ventriculaire et intra-ventriculaires ( blocs de branche droite ) et les troubles du rythme , essentiellement ventriculaires
+les antagonistes des récepteurs de l’angiotensine-2	(ARA-2)
+les antagonistes des récepteurs de l’angiotensine-2 	(ARA-2)
+les antibiotiques	notamment les céphalosporines
+les anti-TNFa 	infliximab
+les AR	définition sont définies comme des arthrites aseptiques survenant dans les semaines qui suivent une infection extra-articulaire ( génitale et/ou digestive )
+les arthrites réactionnelles	(AR)
+les AT directes	comme hirudine
+Les atteintes digestives	notamment maladie/s viscérales
+Les atteintes rénales	étaient définies par : une néphropathie tubulo-interstitielle granulomateuse ( n = 4 ) , une néphrocalcinose ( n = 2 ) , et une insuffisance rénale fonctionnelle engendrée par une hypercalcémie
+les cataractes syndermatotiques	(maladie/s association cataracte - syndromes dermatologiques)
+les causes courantes de syndrome confusionnel	(trouble/s trouble métabolique , méningite , crises convulsives répétées , accident vasculaire , etc.)
+les cellules du sang périphérique	telles que les cellules B , T et NK
+les cellules du sang périphérique	telles que les cellules B , T et NK
+Les complications  du  syndrome  métabolique	(maladie/s obésité , diabète de type 2 [DM2] , maladies cardiovasculaires et cancers)
+les complications sensorielles	notamment la cataracte cortico-induite
+Les comportements oniriques	(trouble/s troubles du comportement du sommeil paradoxal)
+les corticoïdes	notamment la prednisone
+les crises généralisées	(trouble/s tonicocloniques , atoniques , voire à type d’absence , ou purement myocloniques)
+les crises partielles simples 	(sans trouble de la vigilance)
+Les domaines  topologiques	étant défini comme la région relaxée par une coupure simple ou double brin de l' ADN
+les dysfonctionnements de systèmes neuronaux complexes	par exemple ceux de la pensée et de l' action
+Les fonctions autonomes	incluent notamment le péristaltisme digestif , le larmoiement , les fonctions sexuelles , le contrôle de la pression artérielle et la variabilité du rythme cardiaque
+les gènes	notamment les opérons d' ARNr
+les gènes	notamment les opérons d' ARNr
+les graisses 	, notamment saturées
+Les hémopathies malignes	y compris le myélome sécrétant
+les infections	notamment affection/s par le VIH et tuberculose
+les infections bactériennes	(maladie/s maladie de Lyme , syphilis , tuberculose)
+les lymphomes agressifs	(maladie de Hodgkin et lymphomes B diffus à grandes cellules)
+Les maladies neurodégénératives	telles que la maladie de Parkinson et la maladie d' Alzheimer
+les manifestations articulaires des entérocolopathies inflammatoires chroniques 	(maladie de Crohn et rectocolite ulcérohémorragique)
+Les manifestations neuropsychiatriques 	sont trouble/s des céphalées , des troubles de la concentration , une apathie , un ralentissement psychomoteur , voire la stupeur , une ataxie , des hallucinations ou encore une anxiété ou un syndrome dépressif [
+les marqueurs tumoraux	(alpha foetoprotéine , antigène prostatique spécifique , CA-125 , CA-19 ,9 , et CA- 15 ,3
+les médicaments indispensables	, tels que les antalgiques
+les modifications morphologiques	à savoir obésité facio-tronculaire , bosse de bison , et cutanées ( hématomes , lésions purpuriques )
+Les myocardites	sont définies comme maladie/s des maladies inflammatoires du myocarde qui peuvent intéresser les myocytes , le tissu interstitiel et souvent le péricarde
+les myocardites virales	(en particulier infection , réplication , réponse auto-immune , remodelage ventriculaire)
+les opérons d' ARN ribosomiques	notamment gènes nécessaires à la croissance
+les opérons d' ARN ribosomiques	notamment gènes nécessaires à la croissance
+les pathologies démyélinisantes ou dégénératives cérébrales 	, notamment maladie/s  la SEP , la maladie d’Alzheimer , mais également dans le syndrome d’apnée du sommeil
+les pathologies neurodégénératives	comme maladie/s la démence de type Alzheimer , la maladie de Parkinson , la paralysie supranucléaire progressive
+Les patients classés MIRS 5	c'est-à-dire trouble/s en fauteuil
+les phénomènes douloureux	trouble/s brûlures , picotements , paresthésies , allodynie , hyperalgie
+les phénomènes dysautonomiques	troubles de la sudation , troubles fonctionnels intestinaux et vésicaux , syndrome sec , troubles visuels , bouffées de chaleur , hypotension orthostatique
+les polynucléaires neutrophiles 	(PNN)
+les principaux composants de la membrane basale	, comme la laminine et le collagène de type IV 
+Les protéines EWI-2 et CD81	sont des des protéines palmitoylées
+Les quatre grandes fièvres héréditaires périodiques	maladie/s TRAPS ou fièvre hibernienne -Maladie périodique ( fièvre méditerranéenne familiale ) -Syndrome de Muckle-Wells , et proche l' urticaire au froid familiale -Syndrome Hyper-IgD Rares 
+les récepteurs activés par les proliférateurs de peroxysomes 	(PPARs)
+Les rétinopathies associées aux cancers	sont des affection/s des affections rétiniennes rares caractérisées par la présence d' une baisse d' acuité visuelle progressive , le plus souvent bilatérale , s' associant à une héméralopie et d' un scotome annulaire
+les SP	, notamment la SPA
+Les spondylarthropathies 	regroupent la spondylarthrite ankylosante (SPA ) ou pelvispondylite rhumatismale (PSR ) , le syndrome de Reiter et les arthrites réactionnelles (AR ) , le rhumatisme psoriasique (RP ) et les manifestations articulaires des entérocolopathies inflammatoires chroniques (maladie de Crohn et rectocolite ulcérohémorragique )
+Les spondylarthropathies ( SP )	regroupent maladie/s la spondylarthrite ankylosante ( SPA ) ou pelvispondylite rhumatismale ( PSR ) , le syndrome de Reiter et les arthrites réactionnelles ( AR ) , le rhumatisme psoriasique ( RP ) et les manifestations articulaires des entérocolopathies inflammatoires chroniques
+les syndromes confusionnels qui peuvent être d’origine infectieuse	(notamment virale)
+les thyroïdites auto-immunes	dénommée maladie/s  « encéphalopathie associée aux maladies thyroïdiennes auto-immunes »
+Les troubles de l’équilibre	définis si trouble/s le patient n’était pas en mesure de rester au moins cinq secondes en appui unipodal
+les troubles de la conduction auriculo-ventriculaire et intra-ventriculaires	(blocs de branche droite
+les troubles génito-sphinctériens	(trouble/s incontinences , facteurs mécaniques des dyspareunies)
+Les troubles moteurs	: trouble/s akinésie
+Les troubles psychotiques	étaient trouble/s un délire paranoïde
+Les uvéites correspondant à des entités ophtalmologiques pures	(maladie/s hétérochromie de Fuchs , maladie de Birdshot , choroïdite serpigineuse)
+les uvéites infectieuses	(rétinochoroïdites toxoplasmiques , kérato-uvéites herpétiques)
+les uvéites infectieuses diagnostiquées par l’examen ophtalmologique seul	(rétinochoroïdites toxoplasmiques , kérato-uvéites herpétiques)
+Les vascularites	hormis maladie/s  la maladie de Horton 
+Les vascularites du système nerveux central	regroupent affection/s un grand nombre d’affections se caractérisant par une atteinte inflammatoire de la paroi des vaisseaux cérébraux ou médullaires
+les vascularites primitives	telles que maladie/s la maladie de Wegener
+lésion  démyélinisante  extensive	(maladie/s LDE)
+lésions  préexistantes  pulmonaires 	(M. xenopi ou M. avium sur tuberculose ou dilatation des bronches)
+lésions cérébrales	: trouble/s les tubers , les nodules sous-épendymaires , les astrocytomes à cellules géantes et les anomalies de la substance blanche
+leucémie  myéloïde  chronique	(maladie/s LMC)
+liaison  transmembranaire	(MT-MMPs)
+liens 	appelé/e Linking number
+lipase  hormonosensible	(LHS)
+liquide  de  perfusion	(liquide céphalo-rachidien artificiel)
+liquide  de  perfusion	(liquide céphalo-rachidien artificiel)
+liquide-céphalorachidien	(LCR)
+liquides de l’organisme	(maladie/s humeur aqueuse , sang , liquide céphalorachidien)
+lithium	(par exemple les médicaments pouvant inhiber la pénétration de l' iode dans la thyroïde)
+localisations	comme maladie/s la peau , les yeux , la muqueuse nasale , les atteintes ostéo-articulaires ou hépatospléniques
+lupus  érythémateux  systémique	(affection/s LES)
+lupus  érythémateux  systémique	(LES)
+lymphomes agressifs	(maladie de Hodgkin et lymphomes B diffus à grandes cellules)
+lymphomes indolents	sont les lymphomes folliculaires
+MAI	(maladie auto-immune)
+MAI	: maladie/s maladie auto-immune
+maladie	(uvéite , myopie forte)
+Maladie  de  Parkinson	(maladie/s MP)
+maladie  de  Parkinson	(MP)
+maladie  de  Parkinson	(MP)
+maladie  inflammatoire	(comme maladie/s PR)
+Maladie d’Hartnup	: maladie/s affection autosomique récessive due à un déficit de malabsorption du tryptophane
+Maladie de  Scheuermann	: maladie/s augmentation des courbures sagittales , hypercyphose dorsale et hyperlordose lombaire compensatrice — flèche sacrée et augmentation des flèches cervicale et lombaire
+maladie de Behçet	(maladie/s MB)
+maladie de Carré	(maladie/s CDV)
+maladie de Crohn et rectocolite hémorragique	(maladie/s Manifestations articulaires des entéropathies inflammatoires)
+maladie de Horton et artérite de Takayasu	(maladie/s vascularites gigantocellulaires des gros troncs)
+Maladie des chaînes légères	(maladie/s maladie de Randall)
+Maladie des chaînes légères et lourdes	(maladie/s LHCDD)
+Maladie des chaînes lourdes	(maladie/s HCDD)
+maladie hyperostosante	(maladie/s maladie de Forestier)
+maladies	comme maladie/s l' ischémie cardiaque nocturne , la broncho-pneumopathie chronique obstructive , l' asthme , le reflux gastro-oesophagien , l' ulcère peptique , la fibromyalgie 
+maladies  cutanée	telle que maladie/s le psoriasis
+maladies  cutanée	telle que maladie/s le psoriasis
+maladies  mentales	telles que maladie/s la dépression , l' anxiété , la phobie sociale , la schizophrénie et les troubles obsessionnels compulsifs
+maladies  mentales	telles que maladie/s la dépression , l' anxiété , la phobie sociale , la schizophrénie et les troubles obsessionnels compulsifs
+maladies  neurodégénératives	notamment maladie/s les synucléinopathies
+maladies auto-immunes	(maladie/s polyarthrite rhumatoïde , le lupus érythémateux disséminé , syndrome de Gougerot-Sjögren)
+maladies auto-immunes	comme maladie/s la PR , le lupus , le diabète insulinodépendant , le vitiligo , les dysthyroïdies autoimmunes
+maladies auto-immunes	(d’autres maladie/s sarcoïdose , diabète de type 1 , maladie de Biermer , syndrome de Gougerot-Sjögren , maladie de Basedow et lupus érythémateux systémique)
+maladies générales	(sclérose en plaques , maladie de Vogt-Koyanagi-Harada)
+maladies génétiques	comme maladie/s Xeroderma pigmentosum
+maladies génétiques	comme maladie/s Xeroderma pigmentosum
+maladies héréditaires 	: maladie/s le syndrome d’Alport (devant une hématurie ou une protéinurie , une insuffisance rénale , une surdité de perception et des anomalies oculaires ) , les cytopathies mitochondriales (devant un diabète , une insuffisance rénale progressive , une surdité entre autres ) , le syndrome MYH9 (devant une glomérulonéphrite , une surdité de perception , une cataracte présénile , une thrombopénie avec des macroplaquettes ) et la MF
+maladies infectieuses	: maladie/s infection chronique de l’os et/ou des structures adjacentes (ostéomyélite , spondylite , discite , ostéite ) 
+maladies inflammatoires chroniques de l’intestin	(maladie/s MICI)
+Maladies neurologiques	(maladie/s sclérose en plaques)
+maladies sexuellement transmissibles	(maladie/s MST)
+maladies systémiques	et les autres sont maladie/s le syndrome de Sjögren , la sarcoïdose et les vascularites
+malnutrition	définie par un IMC inférieur à 18 ,5–20 kg/m2
+manifestations neuropsychiatriques	si d'autres ; () ischémie cérébrale , épilepsie , psychose
+matériel prothétique	(prothèses)
+mécanismes homéostatiques	tels que la régulation de la glycémie ou de la température
+médiateurs inflammatoires 	(NF-? , IL1? , PAF , MMPs , TGF?1 , caspases)
+médicaments	(affection/s inhibiteur de l’enzyme de conversion , losartan , pyrazinamide)
+médicaments	comme trouble/s le Dépamide® 
+médicaments à la fois néphro- et ototoxiques	tels que le furosémide et les aminoglycosides
+médicaments administrés per os	tels que des antifongiques ( itraconazole) , des immunosuppresseurs ( mycophénolate mofétil ) ou encore des antirétroviraux ( atazanavir , indinavir , nelfinavir )
+médicaments anti-infectieux	(antibiotiques , antimycosiques , antiviraux)
+MEFV	appelé/e maladie/s ME pour mediterranean et FV pour fever
+MEFV	ME pour mediterranean et FV pour fever
+membres inférieurs	(plantes des pieds)
+Mini-GDS	: Mini-Geriatric Depression Scale
+MIRS  2	signes modérés
+MIRS  3 	atteinte de la musculature distale
+MIRS  4 	atteinte proximale légère à modérée
+MIRS  5	atteinte proximale sévère
+MMSE	: Mini-Mental State Examination
+MNA	: Mini Nutritional Assessment
+modérée	définie usqu’à 130 mmol/L
+molécules	tels que l' héparane sulfate , le LDL-R et SR-BI.
+molécules	tels que l' héparane sulfate , le LDL-R et SR-BI
+molécules d' adhérence	telles que P-sélectine et ICAM1
+molécules sondes	telles que anticorps , récepteurs ou ligands , acides nucléiques
+monoclonal antibody immobilization of platelets antigen	(MAIPA)
+moyens d’investigation paraclinique plus sensibles	tels que la tomodensitométrie thoracique ou l’imagerie nucléaire
+MPR	: médecin spécialiste en médecine physique et de réadaptation
+MPR	médecin spécialiste en médecine physique et de réadaptation
+MT	: médecin traitant
+MT	médecin traitant
+mutations  du  récepteur  1A  du  TNF	(le TNFRSF1A)
+mutations  du  récepteur  1A  du  TNF  	le TNFRSF1A
+myélite	(maladie/s inflammation de la moelle épinière)
+myélites	(trouble/s psychoses , troubles de l’humeur , syndrome confusionnel)
+myopathie de Steinert	Aussi appelée ; est la affection/s a plus fréquente des myopathies diagnostiquées à l’âge adulte
+Neisseiria meningitidis	(ou méningocoque)
+néoglucogenèse	appelé/e une synthèse de novo de glucose 
+neurochirurgicaux	(stimulation cérébrale profonde)
+neurochirurgicaux	(stimulation cérébrale profonde)
+neuropsychiatric systemic lupus erythematosus	(ou NPSLE)
+Neurostimulateur électrique transcutané	(trouble/s TENS)
+neurotransmetteurs	tels que l’acétylcholine et la sérotonine
+neurotransmetteurs	tels que l’acétylcholine et la sérotonine.
+névralgie  du  trijumeau	notamment douleurs notamment faciales
+névrite  optique  rétrobulbaire	(NORB)
+niacine	appelé aussi, (la vitamine PP)
+NOMID	(Neonatal infantile Onset Multisystem Inflammatory Disease)
+nosocomiale	(spondylodiscite à M. xenopi)
+nouvelles  méthodes  d'  imagerie  médicale	notamment particulièrement  l' IRM
+nouvelles  méthodes  d'  imagerie  médicale	 particulièrement l' IRM
+noyaux  paraventriculaire	(PVN)
+noyaux supra-optique	(SON)
+OLD	: oxygénothérapie de longue durée
+OLD	oxygénothérapie de longue durée
+onycho-pachydermo-périostite psoriasique	(OPPP)
+onycho-pachydermo-périostite psoriasique	(OPP)
+onychose psoriasique 	appelée onycho-pachydermo-périostite psoriasique
+organes extrathoraciques	(par exemple uvéite , syndrome sec ou sarcoïdes cutanées)
+Ori	, l' origine de réplication 
+Ori	, l' origine de réplication
+ostéophytes	(des lésions dégénératives banales)
+Parkinson  juvénile	maladie/s débutant avant 20 ans
+pathologie auto-immune	notamment une autre un syndrome de Gougerot-Sjögren
+pathologies	telles que maladie/s l' épilepsie , l' ischémie cérébrale , la sclérose latérale amniotrophique , la maladie d' Alzheimer , la maladie de Parkinson et la schizophrénie
+pathologies	telles que maladie/s l' épilepsie , l' ischémie cérébrale , la sclérose latérale amniotrophique , la maladie d' Alzheimer , la maladie de Parkinson et la schizophrénie
+pathologies graves non thyroïdiennes	en particulier l' insuffisance rénale et la dialyse
+pathologies virales	(hépatite C , infection par le virus de l’immunodéficience humaine)
+pelvispondylite rhumatismale 	(PSR)
+peptides trifoliés	en particulier TFF2
+peptides trifoliés	(TFF)
+PM/DM	(polymyosite/dermatomyosite)
+PM/DM	: polymyosite/dermatomyosite
+polyarthrite  rhumatoïde	(PR)
+polyarthrite  rhumatoïde	(PR)
+polyarthrite  rhumatoïde	(PR)
+polyarthrite  rhumatoïde 	(prothèses)
+polyarthrite rhumatoïde	(affection/s PR)
+pompe à proton	(trouble/s IPP)
+population cellulaire R1	appelé/e population résistante 
+pour l' AMB la CMI	est définie comme la plus petite concentration entraînant une inhibition complète de la pousse du champignon
+PR	: polyarthrite rhumatoïde
+précipités rétrocornéens	(PRC)
+précipités rétrodescémétiques	(PRD)
+précipités rétrodescémétiques pouvant avoir ou non un aspect granulomateux	(PRD en graisse de mouton)
+pression intracrânienne 	(PIC)
+problèmes rythmiques	(trouble/s troubles du rythme ou troubles de la conduction)
+processus  cellulaires	comme notamment l' apoptose , la régulation du cycle cellulaire , mais aussi la réparation de l' ADN
+processus  cellulaires	comme notamment ; ,  l' apoptose , la régulation du cycle cellulaire , mais aussi la réparation de l' ADN
+processus  cellulaires	notamment l' apoptose , la régulation du cycle cellulaire , mais aussi la réparation de l' ADN
+profonde	définie e au-dessous de 120 mmol/L.
+proliférateurs de peroxysomes 	(PPARs)
+protéine	appelé/e EWI-2wint 
+protéine	appelé/e StpA
+protéine	appelé/e StpA
+protéine de choc thermique	également connue sous le nom de hsc70 ou hsc7
+protéine de choc thermique	(HSP)
+protéines	(Gyrase , Hsp90 , histidine kinase et MutL)
+protéines	(Gyrase , Hsp90 , histidine kinase et MutL)
+protéines	notamment : maladie/s  le cytochrome P450 , la glutathion S-transférase , les monoamines oxydases A et B , la N-acétyl transférase , la protéine Tau et la parkin
+protéines  non-structurales	notamment NS5A
+protéines  non-structurales	notamment NS5A
+protéines  virales	notamment d'autres les protéines non structurales
+protéines  virales	notamment d'autres les protéines non structurales
+protéines cellulaires	notamment neuroeendocrines
+protéines cellulaires	notamment neuroeendocrines
+protéines sécrétées par l' adipocyte	(telles que la leptine , l' adiponectine/Acrp30 , l' interleukine-6 ou l' inhibiteur-1 de l' activateur du plasminogène)
+pseudopolyarthrite  rhizomélique	(maladie/s PPR)
+psychoses  infantiles	définies comme trouble/s un trouble de la personnalité relevant d' un désordre de l' organisation du moi et de la relation de l' enfant avec le monde environnant
+pThymG	appelé/e le plasmide comportant les diols de thymines
+pThymG	appelé/e le plasmide comportant les diols de thymines
+purpura thrombopénique immunologique	(PTI)
+pyrine	ou marénostrine
+récepteurs cellulaires	tels que les intégrines
+récepteurs pour entrer dans les cellules	tels que les GAG , le LDL-R , le SR-BI et la CD8
+récepteurs pour entrer dans les cellules	tels que les GAG , le LDL-R , le SR-BI et la CD8
+régions  du  système  nerveux  central	: bulbaire , cervicale , thoracique et lombosacrée
+réponse virologique soutenue 	(RVS)
+réseau  membranaire	appelé/e une altération spécifique des membranes
+réseau  membranaire	appelé/e une altération spécifique des membranes
+résidus  polaires  hautement  conservés	(notamment asparagine , acide glutamique et glutamine)
+résidus  polaires  hautement  conservés 	(asparagine , acide glutamique et glutamine)
+respiratoires chroniques 	(asthme , bronchopneumopathie chronique obstructive)
+résumer  à  des  signes  banals  ,  aspécifiques  telles  des  arthralgies  intermittentes	(par exemple maladie/s un rhumatisme palindromique)
+rétrodescémétiques	(PRD)
+Rheb	(RAS-homologue expressed in brain)
+rhumatismes inflammatoires	en particulier la polyarthrite rhumatoïde
+rigidité  musculaire	(résistance à un mouvement passif des membres)
+SAPL	(syndrome des antiphospholipides)
+SAPL	: syndrome des antiphospholipides
+SAPL avéré	(maladie/s présence de lésions ischémiques des noyaux gris centraux)
+sclérose  en  plaques	(SEP)
+sd VKH	: syndrome de Vogt-Koyanagi-Harada
+sd VKH 	(syndrome de Vogt-Koyanagi-Harada)
+secondaire	: prévention de l' apparition des signes/maladies allergiques en rapport avec une sensibilisation déjà présente ou prévention de l' asthme chez un enfant présentant une rhinite allergique ou un eczéma
+sécrétion de lipopolysaccharides	(y compris LPS)
+segments membre	par exemple, comme la cuisse
+SEP-PP	(progressive primaire)
+SEP-PP  	(progressive primaire)
+SEP-RR	(maladie/s récurrente-rémittente)
+SEP-SP	(secondairement progressive)
+SGS	(syndrome de Gougerot-Sjögren)
+SGS	: syndrome de Gougerot-Sjögren
+sibling	c’est-à-dire frères ou sœurs
+signes cliniques d’atteinte des petites fibre	(trouble/s troubles de la sensibilité thermo-algique et/ou allodynie et/ou hyperalgie)
+signes généraux	(fièvre , amaigrissement , sueurs nocturnes)
+signes neurologiques peu spécifiques	tels que trouble/s vertiges , désorientation , chute ou troubles du comportement
+signes végétatifs	: hypotension , hypothermie , bradycardie
+situations neurologiques d' urgence	(par exemple accidents vasculaires cérébraux)
+Société française de gériatrie et gérontologie	(SFGG)
+Société française de gériatrie et gérontologie	(SFGG)
+sommeil  Non-REM	appelé/e sommeil sans phase de mouvements oculaires rapides
+sommeil  Non-REM	(NREM)
+sommeil  Non-REM	ou sommeil lent
+sommeil  Non-REM 	(NREM)
+sommeil  Non-REM 	, appelés sommeil sans phase de mouvements oculaires rapides
+sous-ensembles  de  gliomes  de  haut-  grade 	définis ; ,  proneuraux , proliférants et mésenchymateux .
+spécialités médicales 	(maladie/s gériatrie , rétrocession , pneumologie , hématologie , médecine pénitentiaire , chirurgie , soins de suite et réadaptation , gastro-entérologie , oncologie médicale , rhumatologie , médecine interne , UHCD , ORL , cardiologie , soins palliatifs , maladies infectieuses , réanimation chirurgicale , curiethérapie , oncologie chirurgicale)
+spondylarthrite  ankylosante	(SPA)
+spondylarthrite  ankylosante  	(SPA)
+Spondylarthrite ankylosante 	ou uvéite
+Spondylarthrite ankylosante 	ou arthrite réactionnelle
+sporozoïte	(maladie/s Le parasite)
+stimulation  cérébrale  profonde 	(maladie/s SCP)
+stimulation  haute  fréquence	(maladie/s SHF)
+stimulation  haute  fréquence	(maladie/s SHF)
+stimulation  haute  fréquence	(maladie/s SHF)
+stimulation  haute  fréquence	(maladie/s SHF)
+stimulation électrique intracérébrale	(trouble/s SEI)
+stress somatique ou psychique	(activité limbique)
+structures  cérébrales	(notamment d' autres capsule interne , tractus visuel)
+supplémenter  une  fonction  déficiente 	(synthèse de dopamine)
+support social déficient	(solitude , veuvage , pauvreté)
+supra-optique  	(SON)
+symptômes moteurs parkinsoniens	y compris  le tremblement de repos
+symptômes moteurs parkinsoniens 	(y compris le tremblement de repos à une fréquence de 4 à 6 Hz)
+symptômes non spécifiques	(trouble/s hypotension orthostatique , troubles digestifs , troubles neuropsychiques)
+synapse virologique	appelé/e site de contact entre les cellules
+synapse virologique	appelé/e site de contact entre les cellules
+syndrome  de  Cockayne	est une maladie/s maladie autosomale récessive
+syndrome  de  Cockayne	est une maladie/s maladie autosomale récessive
+syndrome  de  Cockayne 	est une maladie autosomale récessive
+Syndrome  de  retard  de  phase  	: trouble/s il associe un endormissement et un réveil très tardifs , et ne doit pas être confondu avec une insomnie avec retard d' endormissement qui peut en effet être une plainte subjective 
+syndrome  métabolique	(maladie/s défauts des métabolismes glucidique et lipidique , obésité abdominale , dyslipidémie et hypertension , risques d' obésité , de diabète de type 2 et de maladie cardiovasculaire )
+syndrome de Blau	, maladie/s maladie héréditaire rare , caractérisée par une inflammation granulomateuse de la peau , des articulations et des yeux débutant dans l’enfance
+syndrome de Gougerot-Sjögren	(maladie/s SGS)
+syndrome métabolique	encore appelé/e syndrome X)
+système    nigro-strié	(maladie/s locus ceruleus , noyau de Meynert , et cortex cérébral)
+système  nerveux  central	(maladie/s SNC)
+système nerveux centra	(SNC)
+système nerveux central	(SNC)
+système nerveux central 	(SNC)
+TDM	: tomodensitométrie
+TDM	tomodensitométrie
+ter	, le terminus de réplication
+Ter	, le terminus de réplication
+tertiaire	: prévention des manifestations allergiques ou de leur aggravation chez des patients ayant déjà une maladie allergique .
+tétraspanines	telles que CD63 , CD82 , CD37 , CD151 et Co-029
+tétraspanines	telles que d' autres CD63 , CD81 CD82
+tétraspanines	telles que CD81 , CD82 , CD9 et CD63
+tétraspanines	telles que d' autres  CD63 , CD81 CD82
+tétraspanines	, telles que CD63 , CD82 , CD37 , CD151 et Co-029
+Thérapie génique 	: consiste Cette approche consiste à greffer des cellules modifiées ou à modifier les neurones in situ pour supplémenter une fonction déficiente (synthèse de dopamine ) ou apporter une nouvelle fonction (synthèse de facteurs neurotrophiques )
+thiamine	(vitamine B1)
+thrombine 	(facteur IIa)
+thrombose veineuse profonde ou embolie pulmonaire	(maladie/s maladie thromboembolique)
+thyroid stimulating hormone	(TSH)
+thyroxine	(trouble/s T4)
+tomodensitométrie	(maladie/s TDM)
+tomodensitométrie	(TDM)
+traceurs	telles que d'autres les leucocytes marqués au technétium
+traitements administrés susceptibles d’influer sur les processus physiopathologiques inflammatoires	, notamment les antibiotiques et la corticothérapie
+traitements antirétroviraux hautement actifs	(HAART)
+traitements immunosuppresseurs	(trouble/s mycophénolate mofétil , cyclophosphamide , méthotrexate , azathioprine)
+traitements immunosuppresseurs	(azathioprine , méthotrexate)
+transforming growth factor	(TGF)
+TRAPS 	ou fièvre hibernienne
+traumatisme oculaire	(maladie/s contusion , plaie perforante)
+Trichothiodystrophie	(TTD)
+Trichothiodystrophie	(TTD)
+Trichothiodystrophie	(TTD)
+Trichothiodystrophie	(TTD)
+tri-iodo-thyronine	(T3)
+trouble  de  l'  identité  	(psychose infantile)
+troubles	comme trouble/s la psychose infantile , mais aussi les agnosies , les dysphasies , les dyspraxies etc.
+troubles  cognitifs 	(mémoire , attention)
+troubles  cutanés	comme trouble/s des défauts de pigmentation
+troubles  cutanés	comme trouble/s des défauts de pigmentation
+troubles  génito-sphinctériens	trouble/s dysurie , mictions impérieuses plus souvent que retard à la miction , incontinences , constipation , impuissance
+troubles  génito-sphinctériens	(dysurie , mictions impérieuses plus souvent que retard à la miction , incontinences , constipation , impuissance)
+troubles  moteurs	(trouble/s fluctuations motrices , dyskinésies)
+troubles  périnéaux	(trouble/s incontinence urinaire , incontinence anale , douleur , dyspareunie , prolapsus génital)
+Troubles ano-rectaux et du transit	: trouble/s incontinence ,constipation
+troubles cognitifs	(trouble/s désorientation temporospatiale , troubles mnésiques)
+troubles de la sudation	(trouble/s hypo/anhidrose , hyperhidrose)
+troubles développementaux	comme trouble/s les dysphasies , les dyspraxies et les troubles comportementaux
+troubles digestifs	(trouble/s diarrhée ou fécalome)
+troubles digestifs	(trouble/s diarrhée ou fécalome)
+troubles digestifs	(trouble/s douleurs abdominales , nausées , vomissements)
+Troubles digestifs	(trouble/s gastroparésie , diarrhée , constipation , pseudo-occlusion intestinale)
+Troubles du rythme cardiaque	: trouble/s extrasystolies auriculaires ou ventriculaires , bradycardie ou tachycardie sinusale
+troubles du transit	(trouble/s constipation ou diarrhée)
+troubles fonctionnels intestinaux	(constipation , diarrhée , pseudo-occlusion intestinale chronique)
+Troubles génito-sexuels	: trouble/s dysfonction érectile chez l' homme
+troubles hydro-électrolytiques	(trouble/s hypocalcémie ou hypokaliémie)
+troubles mentaux	et d’autres comme trouble/s les troubles maniaques
+Troubles mictionnels	(trouble/s incontinence or rétention urinaire)
+troubles neurologiques	(d’autres trouble/s épilepsie , signes de focalisation)
+troubles neuropsychiatriques	d'autres trouble/s : dépression ( 90 et 20 pour cent ) , de troubles anxieux ( 30 et 12 pour cent ) , de troubles cognitifs ( 20 et 40 pour cent ) , d’épilepsie ( 20 et 43 pour cent ) et de céphalées
+troubles oculomoteurs	(trouble/s paralysie oculomotrice , nystagmus)
+Troubles psychiatriques	(trouble/s psychoses , troubles de l' humeur , troubles anxieux)
+troubles psychiques	trouble/s variant d’un état euphorique à un tableau de démence
+Troubles visuels	(trouble/s trouble de l’accommodation avec vision trouble , photophobie , gêne de la vision de près , pupille tonique d’Adie)
+tuberculose	notamment causes infectieuses
+tumeurs	notamment neuroblastomes olfactifs
+tumeurs	notamment neuroblastomes olfactifs
+Tyrosine  Hydroxylase	(consiste TH)
+Tyrosine  Hydroxylase	(consiste TH)
+UCH-L1	, l' ubiquitine carboxy-terminal hydrolase-L1
+UCH-L1  	(l' ubiquitine carboxy-terminal hydrolase-L1)
+un    domaine  topologique	étant défini comme la région relaxée par une coupure simple ou double brin de l' ADN
+un  «  lupus-like  syndrome  »	, ou un lupus « latent »
+un  anticoagulant  circulant 	de type affection/s antiprothrombinase
+un  épaississement  de  l'  interstitium  pulmonaire  périlobulaire  	(épaississement régulier nodulaire ou irrégulier des septa et distorsion du lobule pulmonaire ou des bronchiectasies de traction)
+un  syndrome  extrapyramidal	: maladie/s maladie de Parkinson surtout dans sa forme akinétique et hypertonique
+un appareillage	(pacemaker)
+un cathéter « queue de cochon » rotationne	, tournant autour d' un axe matérialisé par un guide rigide
+un choc hémorragique chirurgical	par exemple une rupture splénique
+un clone cellulaire humain	appelé/e Huh-7w7
+un clone cellulaire humain	appelé/e Huh-7w7
+un déficit auditif	trouble/s des troubles de l’audition ou nécessitant l’utilisation de prothèses auditives
+un déficit neurosensoriel	définie l’existence d’un déficit auditif ou visuel 
+un déficit visuel	trouble/s des troubles de la vision malgré le port de lunettes
+Un épisode dépressif majeur	est défini par trouble/s la présence quasi-quotidienne pendant au moins deux semaines d’une humeur triste et d’une perte d’intérêt pour les activités quotidiennes , associée à une perte de poids , des troubles du sommeil , une fatigue , un sentiment de dépréciation ou de culpabilité , de troubles de la concentration et d’idées noires ou suicidaires
+un passage prématuré des cheveux de la phase de croissance à la phase de repos 	(efflux télogène)
+un phénomène d' emphysème localisé	ou « d' air trapping »
+un réseau à la surface des cellules	appelé/e tetraspanin web ou microdomaine enrichi en tétraspanines
+un réseau à la surface des cellules	appelé/e tetraspanin web ou microdomaine enrichi en tétraspanines
+un rhumatisme défini 	(PR , LES.)
+un squaring vertebral	c' est-à-dire une « mise au carré »
+Un syndrome  inflammatoire  biologique	défini par une vitesse de sédimentation globulaire ( VS ) supérieure à 20 mm la première heure chez les hommes et supérieure à 30 chez les femmes et/ou une protéine C-réactive ( CRP ) supérieure à 6 mg/l
+un transporteur 	appelé/e rabGDI
+un traumatisme psychiqu	tel qu' maladie/s une chute , une maladie , un événement pénible
+un trouble de la mobilité	trouble/s un antécédent de chute dans les trois derniers mois ou un trouble de l’équilibre
+Un trouble ventilatoire obstructif 	ce qui représente trouble/s une particularité de la sarcoïdose
+une  atteinte  cardiaque	(cardiomyopathie , troubles de la conduction et troubles du rythme)
+une  atteinte  cardiaque 	(cardiomyopathie , troubles de la conduction et troubles du rythme)
+une  atteinte  des  muscles  lisses	(troubles digestifs)
+une  atteinte  des  muscles  lisses	(troubles digestifs)
+une  atteinte  du  nerf  optique  	(névrite optique)
+une  atteinte  du  système  nerveux  central	(possible déficience mentale , troubles du sommeil)
+une  forme  «  bulbaire  » 	des troubles articulatoires et une dysphagie , et une association plus fréquente de troubles cognitifs
+une  forme  «  raide  »	marquée une atteinte centrale pyramidale importante et parfois extrapyramidale
+une  infection  du  matériel  de  stimulation  	(souvent à Staphyloccus epidermidis)
+une  lésion  unique  ou  multiple  de  grande  taille	définie par un diamètre supérieur à 2 cm
+une  maladie  autosomale  récessive 	le Syndrome de Cockayne et le Xeroderma pigmentosum
+une  maladie  autosomale  récessive 	le Syndrome de Cockayne et le Xeroderma pigmentosum
+Une  ostéoarthrite  au  cours  d'  une  affection 	telle que maladie/s  polyarthrite rhumatoïde , psoriasique ou lupique 
+une  protéine	appelé/e UCH-L1
+une  protéine	appelé/e UCH-L1 
+une  protéine	appelé/e pyrine
+une  protéine  à  activité  GTPase	appelé/e BipA
+une  protéine  à  activité  GTPase	appelé/e BipA
+une  protéine  C-réactive 	(CRP)
+une  région d' environ 100pb	, appelé/e site III 
+une  région d' environ 100pb	,appelé/e site III
+une  vacuole	appelé/e macropinosome
+une  vacuole	appelé/e macropinosome
+une activité de base de la vie quotidienne	(ADL)
+une affection extra-articulaire	(affection/s urogénitale , digestive )
+une amylose AL ou d’une maladie de Randall	maladie/s affections qui modifient le pronostic du myélome
+une amylose cardiaque	(rehaussement diffus)
+une amylose cardiaque	(rehaussement diffus)
+Une atteinte  bronchique	a été définie comme la dilatation luminale et épaississement pariétal des bronches segmentaires , soussegmentaires et distales , des petites opacités centrolobulaires , des hypodensités et des signes de piégeage expiratoire en rapport avec une atteinte bronchiolaire obstructive
+Une atteinte  interstitielle	a été définie comme un épaississement de l' interstitium pulmonaire périlobulaire ( épaississement régulier nodulaire ou irrégulier des septa et distorsion du lobule pulmonaire ou des bronchiectasies de traction ) et intralobulaire ( opacités linéaires entrecroisées en une fine réticulation et/ou aspect de verre dépoli )
+Une atteinte  pleurale	a été définie comme un épanchement liquidien dans la cavité pleurale , des plaques pleurales et des épaississements pleuraux
+une atteinte hépatique sévère	(stade F3-F4)
+une bronchopneumopathie chronique obstructive	en particulier bronchectasies ou d' une mucoviscidose
+une coagulation intravasculaire disséminée	(CIVD)
+une co-infection sévère	(maladie/s six infections respiratoires , deux encéphalites et une septicémie à Staphylococcus epidermidi)
+une comorbidité	par exemple une co-infection VIH ou VHB
+une comorbidité 	(par exemple une co-infection VIH ou VHB)
+Une condensation  alvéolaire	a été définie comme une opacité parenchymateuse qui efface les contours des vaisseaux pulmonaires et les parois bronchiques
+une connectivite	définie un lupus
+Une diminution rapide de la synthèse protéique et  l' inhibition de la synthèse protéique	est un/e un mécanisme neuroprotecteur puissant en particulier vis à vis du glutamate
+une échelle d' évaluation motrice	appelé/e « échelle de Schneider et Kovelowski »
+une échelle d' évaluation motrice	appelé/e « échelle de Schneider et Kovelowski »
+une forme galénique interdisant l’écrasement	notamment les formes à libération prolongée et les comprimés gastro-résistants
+une gêne	(maladie/s boiterie , maladresse d' un membre supérieur , troubles de l' attention ou de la mémoire , troubles urinaires , visuels , de l' élocution)
+une hypertension artérielle	par exemple PAM à 100 mmHg
+une infection	(par exemple endocardite infectieuse)
+une infection extra-articulaire 	(génitale et/ou digestive)
+Une lésion retardée	est définie par l' apparition d' une ou de plusieurs nouvelles images hémorragiques et/ou l' aggravation d' une image initiale
+une maladie auto-immune	(maladie/s lupus , Sjögren)
+une maladie complexe	comme maladie/s la PR
+une maladie des chaînes légères	(maladie/s maladie de Randall)
+une maladie hyperostosante 	maladie de Forestier
+une maladie non auto-immune	maladie/s affections infectieuses , inflammatoires ou tumorales
+une méningite bactérienne lymphocytaire	(notamment tuberculose et listériose)
+une microangiopathie thrombotique	(PTT , SHU)
+une microangiopathie thrombotique	, une anomalie de répartition dont la principale cause est l’hypersplénisme
+une neurorétinite	, c’est-à-dire une papillite associée à une étoile maculaire
+une neurorétinite	c' est à dire une papillite associée à une étoile maculaire
+Une neutropénie	est définie comme une diminution du chiffre absolu des polynucléaires neutrophiles ( PNN ) du sang au-dessous de 1 ,5 G/L
+une onde électromagnétique	appelé/e photon ?
+une onde électromagnétique	appelé/e photon ?
+une pathologie infectieuse ou maligne	(en particulier lymphome)
+une pathologie neurodégénérative	(maladie/s maladie de Parkinson , atrophie multisystématisée)
+une phase initiale inflammatoire 	(ostéite)
+une polypathologie	(plus d’une pathologie chronique)
+une protéine de choc thermique	également connue sous le nom de hsc70 ou hsc7
+une protéine de choc thermique	(HSP)
+une protéine de choc thermique	(HSP)
+une protéine de choc thermique	HSP
+une réponse au traitement	définie une amélioration de la capacité vitale d’au moins 10 pour cent après six à 12 mois de traitement.
+une réponse virologique soutenue 	définie par une virémie négative six mois après l’arrêt du traitement anti-VHC
+une réponse virologique soutenue 	(définie par définie par une virémie négative six mois après l’arrêt du traitement anti-VHC)
+une sécrétion inappropriée d’HAD	affection/s vasculaire artérielle ou veineuse , tumorale , infectieuse , post-chirurgicale , post-traumatique , post-anoxique , dégénérative
+une séquelle d’infarctus	maladie/s rehaussement tardif sous endocardique
+une souche isogénique CF7968?  fis	(appelé/e K12? fis)
+une souche isogénique CF7968?  fis	appelé/e (K12? fis
+une souche isogénique CF7968?  fis	appelé/e (K12? fis
+une souche isogénique CF7968?  fis 	appelé/e (K12? fis
+une uvéite	se traduit par un œil rouge et douloureux ( pendant plus de 48 heures )
+une uvéite antérieure chronique ( durée supérieure à trois mois ) granulomateuse	, définie des précipités rétrocornéens larges , typiquement « en graisse de mouton » ou des nodules iriens , véritables granulomes histologiquement prouvés
+une uvéite antérieure chronique granulomateuse	définie des précipités rétrocornéens larges , typiquement « en graisse de mouton » ou des nodules iriens , véritables granulomes histologiquement prouvés
+uvéites infectieuses 	(virus du groupe herpès , tuberculose , syphilis , toxoplasmose , maladie de Lyme…)
+uvéites médicamenteuses et pseudo-uvéites	(lymphome oculocérébral)
+Vaccinations	en particulier : antigrippale , anti-hépatite A et B , antipneumococcique
+vascularite systémique	(une autre maladie de Wegener , polyangéite microscopique , périartérite noueuse)
+vélocité diastolique	notamment Une vélocité anormale sur une des deux artères cérébrales moyennes
+vélocité diastolique	(Vd)
+VEMS	: volume expiratoire maximal en une seconde
+VEMS	volume expiratoire maximal en une seconde
+ventricule droit	(trouble/s VD)
+virales	EBV , HSV
+virus	tels que d' autres le VIH et le virus de la leucémie humaine de cellules T
+Virus  de  l'  Hépatite  C	appelé/e maladie/s VHC
+Virus  de  l'  Hépatite  C	(appelé/e maladie/s VHC)
+virus de  l'  immunodéficience  humaine	(maladie/s VIH)
+virus de l’hépatite C	(VHC)
+virus de l’immunodéficience humaine	(VIH)
+virus neurotropes	tels que VIH , HTLV-1 ou cytomegalovirus
+virus varicelle-zona	(maladie/s VZV)
+vitamine B3 ou niacine	(appelé aussi la vitamine PP pour pellagra-preventing factor)
+vitesse  de  sédimentation  globulaire	(VS)
+vitesse  de  sédimentation  globulaire	(VS)
+vivant	définition : toute entité biologique présentant la capacité de se reproduire
+VNI	: ventilation non invasive
+VNI	ventilation non invasive
+Xeroderma  pigmentosum	, maladie/s une maladie génétique provoquant l' apparition précoce de cancers cutanés
+Xeroderma  pigmentosum	, maladie/s une maladie génétique provoquant l' apparition précoce de cancers cutanés
+Xeroderma  pigmentosum	est une maladie/s une maladie génétique
+Xeroderma  pigmentosum	est une maladie/s une maladie autosomale récessive et les gènes codant pour les protéines XP sont tous sur des loci appartenant à des chromosomes différents
+Xeroderma  pigmentosum	est une maladie/s une maladie génétique
+Xeroderma  pigmentosum	est une maladie/s une maladie autosomale récessive
+Xeroderma  pigmentosum	la décrivant comme maladie/s une maladie héréditaire prédisposant au cancer induit par le soleil
+Xeroderma  pigmentosum	la décrivant comme maladie/s une maladie héréditaire prédisposant au cancer induit par le soleil
+Xeroderma  pigmentosum	(XP)
+Xeroderma  pigmentosum	(XP)
