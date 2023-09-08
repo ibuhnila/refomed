@@ -31,6 +31,11 @@ Creative Commons NonCommercial 4.0 International (CC BY-NC 4.0)
 
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
+# Accéssibilité au corpus annoté RefoMed
+
+Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
+Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@etu.unistra.fr
+
 # Références
 
 Buhnila Ioana. (2021). Building a Corpus of Medical Paraphrases in Romanian. In Proceedings of the The 16th Edition of the International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2021, Iasi, Romania (online), pp. 139-152.
