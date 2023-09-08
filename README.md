@@ -23,8 +23,9 @@ La méthode automatique de constitution de corpus de reformulation que nous avon
 
 •	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
 
-# Scripts
-Nous partageons les scripts créés et utilisés pour la construction du corpus RefoMed.
+# Tâche de génération automatique de reformulations
+Nous avons réalisé des expériences de génération automatique de reformulations en adaptant l'architecture APT à nos données (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
+Nous partageons les scripts adaptés à la langue française et roumaine avec la communauté.
 
 # Licence
 Creative Commons NonCommercial 4.0 International (CC BY-NC 4.0)
