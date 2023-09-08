@@ -31,7 +31,7 @@ Creative Commons NonCommercial 4.0 International (CC BY-NC 4.0)
 
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
-# Accéssibilité au corpus annoté RefoMed
+# Accessibilité au corpus annoté RefoMed
 
 Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
 Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@etu.unistra.fr
