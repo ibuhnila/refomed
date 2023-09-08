@@ -43,6 +43,8 @@ Buhnila Ioana & Todirascu Amalia. (2023). Évaluation d’un générateur automa
 
 Buhnila Ioana. (2023). Annotation lexicale et pragmatique de termes médicaux et leurs reformulations. Acte des Journées Internationales de Linguistique de Corpus (JLC), 3-7 juillet 2023, Grenoble, France.
 
+Buhnila Ioana. (2023). Une méthode automatique de construction de corpus de reformulation. Thèse de doctorat, Université de Strasbourg, juin 2023.
+
 Buhnila Ioana. (2022b). Identifying Medical Paraphrases in Scientific versus Popularization Texts in French for Laypeople Understanding. In Proceedings of the Third Workshop on Scholarly Document Processing, COLING 22’, Gyeongju, Republic of Korea, pp. 69-79. Association for Computational Linguistics.
 
 Buhnila Ioana. (2022a). Le Rôle Des Marqueurs et Indicateurs Dans l’analyse Lexicale et Sémantico-Pragmatique de Reformulations Médicales. 8e Congrès Mondial de Linguistique Française (CMLF), 4-8 juillet 2022, Orléans, France, SHS Web of Conferences 138: 10005. https://doi.org/10.1051/shsconf/202213810005.
