@@ -24,7 +24,7 @@ La méthode automatique de constitution de corpus de reformulation que nous avon
 •	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
 
 # Génération automatique de reformulations
-Nous avons réalisé des expériences de génération automatique de reformulations en adaptant l'architecture APT à nos données (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
+Nous avons réalisé des expériences de génération automatique de reformulations en adaptant l'architecture APT à nos données (Buhnila & Todirascu, 2023) (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
 Nous partageons les scripts adaptés à la langue française et roumaine avec la communauté.
 
 # Licence
@@ -39,8 +39,13 @@ Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioa
 
 # Références
 
-Buhnila Ioana. (2021). Building a Corpus of Medical Paraphrases in Romanian. In Proceedings of the The 16th Edition of the International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2021, Iasi, Romania (online), pp. 139-152.
+Buhnila Ioana & Todirascu Amalia. (2023). Évaluation d’un générateur automatique de reformulations médicales. TALN, 5-9 juin, 2023, Paris, France.
+
+Buhnila Ioana. (2023). Annotation lexicale et pragmatique de termes médicaux et leurs reformulations. Acte des Journées Internationales de Linguistique de Corpus (JLC), 3-7 juillet 2023, Grenoble, France.
+
+Buhnila Ioana. (2022b). Identifying Medical Paraphrases in Scientific versus Popularization Texts in French for Laypeople Understanding. In Proceedings of the Third Workshop on Scholarly Document Processing, COLING 22’, Gyeongju, Republic of Korea, pp. 69-79. Association for Computational Linguistics.
 
 Buhnila Ioana. (2022a). Le Rôle Des Marqueurs et Indicateurs Dans l’analyse Lexicale et Sémantico-Pragmatique de Reformulations Médicales. 8e Congrès Mondial de Linguistique Française (CMLF), 4-8 juillet 2022, Orléans, France, SHS Web of Conferences 138: 10005. https://doi.org/10.1051/shsconf/202213810005.
 
-Buhnila Ioana. (2022b). Identifying Medical Paraphrases in Scientific versus Popularization Texts in French for Laypeople Understanding. In Proceedings of the Third Workshop on Scholarly Document Processing, COLING 22’, Gyeongju, Republic of Korea, pp. 69-79. Association for Computational Linguistics.
+Buhnila Ioana. (2021). Building a Corpus of Medical Paraphrases in Romanian. In Proceedings of the The 16th Edition of the International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2021, Iasi, Roumanie (online), pp. 139-152.
+
