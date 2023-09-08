@@ -37,7 +37,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
 Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@etu.unistra.fr
 
-# Publications scientifiques
+# Publications scientifiques & Références
 
 Buhnila Ioana & Todirascu Amalia. (2023). Évaluation d’un générateur automatique de reformulations médicales. TALN, 5-9 juin, 2023, Paris, France.
 
@@ -49,3 +49,8 @@ Buhnila Ioana. (2022a). Le Rôle Des Marqueurs et Indicateurs Dans l’analyse L
 
 Buhnila Ioana. (2021). Building a Corpus of Medical Paraphrases in Romanian. In Proceedings of the The 16th Edition of the International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2021, Iasi, Roumanie (online), pp. 139-152.
 
+Grabar Natalia & Cardon Rémi. (2018). CLEAR - Simple Corpus for Medical French. In Proceedings of the 1st Workshop on Automatic Text Adaptation (ATA), pp. 3-9. Tilburg, the Netherlands: Association for Computational Linguistics. https://doi.org/10.18653/v1/W18-7002.
+
+Kilgarriff Adam, Baisa Vít, Bušta Jan, Jakubíček Miloš, Kovář Vojtěch, Michelfeit Jan, Rychlý Pavel & Suchomel Vít. (2014). The Sketch Engine: ten years on. Lexicography 1, pp. 7‑36.
+
+Todirascu Amalia, Pado Sebastian, Krisch Jennifer, Kisselew Max & Heid Ulrich. (2012). French and German Corpora for Audience-Based Text Type Classification. In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC’12), pp. 1591–1597. Istanbul, Turkey: European Language Resources Association (ELRA).
