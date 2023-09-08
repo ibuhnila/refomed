@@ -37,7 +37,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
 Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@etu.unistra.fr
 
-# Références
+# Publications scientifiques
 
 Buhnila Ioana & Todirascu Amalia. (2023). Évaluation d’un générateur automatique de reformulations médicales. TALN, 5-9 juin, 2023, Paris, France.
 
