@@ -1,43 +1,44 @@
-# RefoMed
+# REFOMED
 
-RefoMed (Reformulations Médicales) est un corpus de reformulations sous-phrastiques médicales réalisé pendant la thèse de doctorat "Une méthode automatique de construction de corpus de reformulation" par Ioana Buhnila (UR 1339 LiLPa, Linguistique, Langues, Parole, Université de Strasbourg ; RACAI, Institut de Recherche sur l’Intelligence Artificielle de l’Académie Roumaine de Bucarest).
+# French version below
 
-Le corpus RefoMed est construit de 11 653 paires de termes médicaux – reformulations médicales et il est divisé en deux parties : 
+RefoMed is a corpus of medical subphrastic paraphrases in French and Romanian. The RefoMed corpus is made up of 10,464 pairs of medical terms and their correspondant medical paraphrase and is divided into two parts: 
 
-•	le corpus RefoMed-Fr, qui contient 8 626 paires de termes médicaux – reformulations médicales en français
+- the RefoMed-Fr corpus, which contains 7,437 pairs of medical terms - medical paraphrases in French
+- the RefoMed-Ro corpus, containing 3,027 pairs of medical terms - medical paraphrases in Romanian
 
-•	le corpus RefoMed-Ro, qui contient 3 027 paires de termes médicaux – reformulations médicales en roumain
+RefoMed was created during the doctoral thesis "An automatic method for building paraphrase corpora" by Ioana Buhnila (LiLPa, UR 1339, Linguistics, Languages, Speech, University of Strasbourg, France, in collaboration with the Research Institute on Artificial Intelligence (RACAI) of the Romanian Academy of Bucharest).
 
-# Constitution du corpus
+# METHOD
 
-La méthode automatique de constitution de corpus de reformulation que nous avons développée est constituée des plusieurs étapes de traitement et annotation:
-1. Les phrases contenant des termes médicaux ont été extraites automatiquement en partant des terminologies médicales pour le français et des listes de termes médicaux pour le roumain ;
-2. Nous avons constitué des listes de marqueurs de reformulation à partir de l’état de l’art et de nos propres observations sur nos corpus de textes médicaux. Ces marqueurs ont été recherchés dans les phrases qui contiennent des termes médicaux, afin de tester leur utilité dans le marquage d’une reformulation médicale ;
-3. Les phrases contenant des termes médicaux et des marqueurs ont été annoté manuellement et validées par plusieurs annotateurs humains non-spécialiste du domaine de la médicine ;
-4. Les paires de termes-marqueurs-reformulations correctes et validées constituent le corpus RefoMed.
+The semi-automatic method developed for building the RefoMed corpus consists of several processing and annotation stages:
+1. Sentences containing medical terms were automatically extracted from medical terminologies for French and from lists of medical terms for Romanian;
+2. We compiled lists of paraphrase markers based on the state of the art and our own observations of our medical text corpora. These markers were searched for in sentences containing medical terms, in order to test their usefulness in marking medical paraphrases;
+3. Sentences containing medical terms and markers were manually annotated and validated by several non-medical human annotators;
+4. Correct and validated term-marker-paraphrase pairs make up the RefoMed corpus (in depth presentation of the method in the PhD thesis of Buhnila, 2023).
 
-# Corpus sources
-•	ClassYN (Todirascu et al., 2012) - corpus comparable qui comprend des textes scientifiques et des textes de vulgarisation scientifique du domaine de la médecine en français;
+# SOURCE CORPORA
 
-•	CLEAR Cochrane (Grabar et Cardon, 2018) - corpus comparable qui contient des résumés scientifiques et des résumés simplifiés du domaine médical;
+- ClassYN (Todirascu et al., 2012) - comparable corpus that includes scientific and popularization texts from the field of medicine in French;
+- CLEAR Cochrane (Grabar and Cardon, 2018) - comparable corpus of scientific and simplified abstracts from the medical field;
+- GrandMedRo2 (Buhnila, 2023) - corpus containing medical popularization texts extracted from the web with the web scraping tool Sketch Engine (Kilgarriff et al., 2014).
 
-•	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
+# PARAPHRASE GENERATION TASK
 
-# Génération automatique de reformulations
-Nous avons réalisé des expériences de génération automatique de reformulations en adaptant l'architecture APT à nos données (Buhnila & Todirascu, 2023) (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
-Nous partageons les scripts adaptés à la langue française et roumaine avec la communauté.
+We have carried out automatic paraphrase generation experiments by adapting the APT architecture to our data (Buhnila & Todirascu, 2023) (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
+We share the scripts adapted to the French and Romanian languages with the community.
 
-# Licence
+# LICENSE
+
 Creative Commons NonCommercial 4.0 International (CC BY-NC 4.0)
-
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
-# Accessibilité au corpus annoté RefoMed
+# DATA ACCESSIBILITY
 
-Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
-Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@etu.unistra.fr
+The RefoMed medical paraphrase corpus is available for research under CC BY-NC 4.0 license.
+To access the RefoMed corpus, please send a request to ioana.buhnila@univ-lorraine.fr
 
-# Publications scientifiques & Références
+# REFERENCES
 
 Buhnila Ioana & Todirascu Amalia. (2023). Évaluation d’un générateur automatique de reformulations médicales. TALN, 5-9 juin, 2023, Paris, France.
 
@@ -56,3 +57,45 @@ Grabar Natalia & Cardon Rémi. (2018). CLEAR - Simple Corpus for Medical French.
 Kilgarriff Adam, Baisa Vít, Bušta Jan, Jakubíček Miloš, Kovář Vojtěch, Michelfeit Jan, Rychlý Pavel & Suchomel Vít. (2014). The Sketch Engine: ten years on. Lexicography 1, pp. 7‑36.
 
 Todirascu Amalia, Pado Sebastian, Krisch Jennifer, Kisselew Max & Heid Ulrich. (2012). French and German Corpora for Audience-Based Text Type Classification. In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC’12), pp. 1591–1597. Istanbul, Turkey: European Language Resources Association (ELRA).
+
+# French version
+
+# RefoMed
+
+RefoMed (Reformulations Médicales) est un corpus de reformulations sous-phrastiques médicales réalisé pendant la thèse de doctorat "Une méthode automatique de construction de corpus de reformulation" par Ioana Buhnila (UR 1339 LiLPa, Linguistique, Langues, Parole, Université de Strasbourg ; RACAI, Institut de Recherche sur l’Intelligence Artificielle de l’Académie Roumaine de Bucarest).
+
+Le corpus RefoMed est construit de 11 653 paires de termes médicaux – reformulations médicales et il est divisé en deux parties : 
+•	le corpus RefoMed-Fr, qui contient 8 626 paires de termes médicaux – reformulations médicales en français
+•	le corpus RefoMed-Ro, qui contient 3 027 paires de termes médicaux – reformulations médicales en roumain
+
+# Constitution du corpus
+
+La méthode automatique de constitution de corpus de reformulation que nous avons développée est constituée des plusieurs étapes de traitement et annotation:
+1. Les phrases contenant des termes médicaux ont été extraites automatiquement en partant des terminologies médicales pour le français et des listes de termes médicaux pour le roumain ;
+2. Nous avons constitué des listes de marqueurs de reformulation à partir de l’état de l’art et de nos propres observations sur nos corpus de textes médicaux. Ces marqueurs ont été recherchés dans les phrases qui contiennent des termes médicaux, afin de tester leur utilité dans le marquage d’une reformulation médicale ;
+3. Les phrases contenant des termes médicaux et des marqueurs ont été annoté manuellement et validées par plusieurs annotateurs humains non-spécialiste du domaine de la médicine ;
+4. Les paires de termes-marqueurs-reformulations correctes et validées constituent le corpus RefoMed.
+
+# Corpus sources
+
+•	ClassYN (Todirascu et al., 2012) - corpus comparable qui comprend des textes scientifiques et des textes de vulgarisation scientifique du domaine de la médecine en français;
+•	CLEAR Cochrane (Grabar et Cardon, 2018) - corpus comparable qui contient des résumés scientifiques et des résumés simplifiés du domaine médical;
+•	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
+
+# Génération automatique de reformulations
+
+Nous avons réalisé des expériences de génération automatique de reformulations en adaptant l'architecture APT à nos données (Buhnila & Todirascu, 2023) (https://github.com/Advancing-Machine-Human-Reasoning-Lab/apt). 
+Nous partageons les scripts adaptés à la langue française et roumaine avec la communauté.
+
+# Licence
+
+Creative Commons NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/ 
+
+# Accessibilité au corpus annoté RefoMed
+
+Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
+Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse ioana.buhnila@univ-lorraine.fr
+
+
+
