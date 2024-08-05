@@ -4,8 +4,8 @@ _French version below_
 
 **RefoMed** is a corpus of **medical sub-sentential paraphrases** in French and Romanian. The RefoMed corpus is made up of 10,464 pairs of medical terms and their correspondant medical paraphrase and is divided into two parts: 
 
-- the **RefoMed-FR** corpus, which contains 7,437 pairs of medical terms - medical paraphrases in French 🇫🇷
-- the **RefoMed-RO** corpus, containing 3,027 pairs of medical terms - medical paraphrases in Romanian 🇷🇴
+- the **RefoMed-FR** corpus, which contains 7,437 pairs of medical terms - medical paraphrases in French 
+- the **RefoMed-RO** corpus, containing 3,027 pairs of medical terms - medical paraphrases in Romanian 
 
 RefoMed was created during the PhD thesis [An automatic method for building paraphrase corpora](https://theses.hal.science/tel-04226255/) by Ioana Buhnila (LiLPa, UR 1339, Linguistics, Languages, Speech, University of Strasbourg, France, in collaboration with the Research Institute on Artificial Intelligence (RACAI) of the Romanian Academy of Bucharest).
 
@@ -69,8 +69,8 @@ _________________
 **RefoMed** _(Reformulations Médicales)_ est un corpus de reformulations sous-phrastiques médicales réalisé pendant la thèse de doctorat [Une méthode automatique de construction de corpus de reformulation](https://theses.hal.science/tel-04226255/) par Ioana Buhnila (UR 1339 LiLPa, Linguistique, Langues, Parole, Université de Strasbourg ; RACAI, Institut de Recherche sur l’Intelligence Artificielle de l’Académie Roumaine de Bucarest).
 
 Le corpus **RefoMed** est construit de 10 464 paires de termes médicaux – reformulations médicales et il est divisé en deux parties : 
--	le corpus **RefoMed-FR**, qui contient 7 437 paires de termes médicaux – reformulations médicales en français 🇫🇷
--	le corpus **RefoMed-RO**, qui contient 3 027 paires de termes médicaux – reformulations médicales en roumain 🇷🇴
+-	le corpus **RefoMed-FR**, qui contient 7 437 paires de termes médicaux – reformulations médicales en français 
+-	le corpus **RefoMed-RO**, qui contient 3 027 paires de termes médicaux – reformulations médicales en roumain 
 
 ## Constitution du corpus
 
