@@ -35,8 +35,9 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Data Accessibility
 
-The RefoMed medical paraphrase corpus is available for research under CC BY-NC 4.0 license.
-To access the RefoMed corpus, please send a request to _ioana.buhnila@univ-lorraine.fr_
+The French dataset (**RefoMed-FR**) is available for research under CC BY-NC 4.0 license.
+
+To access the Romanian dataset (**RefoMed-RO**), please send a request to _ioana.buhnila@univ-lorraine.fr_
 
 ## References
 
@@ -96,6 +97,6 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Accessibilité au corpus annoté RefoMed
 
-Le corpus de reformulations médicales RefoMed est disponible sous licence CC BY-NC 4.0 pour la recherche.
-Pour avoir accès au corpus RefoMed, merci de faire une demande à l'adresse _ioana.buhnila@univ-lorraine.fr_
+Le corpus français de reformulations médicales **RefoMed-FR** est disponible sous licence CC BY-NC 4.0 pour la recherche.
+Pour avoir accès au corpus roumain, **RefoMed-RO**, merci de faire une demande à l'adresse _ioana.buhnila@univ-lorraine.fr_
 
