@@ -2,12 +2,12 @@
 
 _French version below_
 
-**RefoMed** is a corpus of **medical subphrastic paraphrases** in French and Romanian. The RefoMed corpus is made up of 10,464 pairs of medical terms and their correspondant medical paraphrase and is divided into two parts: 
+**RefoMed** is a corpus of **medical sub-sentential paraphrases** in French and Romanian. The RefoMed corpus is made up of 10,464 pairs of medical terms and their correspondant medical paraphrase and is divided into two parts: 
 
 - the **RefoMed-Fr** corpus, which contains 7,437 pairs of medical terms - medical paraphrases in French
 - the **RefoMed-Ro** corpus, containing 3,027 pairs of medical terms - medical paraphrases in Romanian
 
-RefoMed was created during the doctoral thesis "An automatic method for building paraphrase corpora" by Ioana Buhnila (LiLPa, UR 1339, Linguistics, Languages, Speech, University of Strasbourg, France, in collaboration with the Research Institute on Artificial Intelligence (RACAI) of the Romanian Academy of Bucharest).
+RefoMed was created during the doctoral thesis [An automatic method for building paraphrase corpora](https://theses.hal.science/tel-04226255/) by Ioana Buhnila (LiLPa, UR 1339, Linguistics, Languages, Speech, University of Strasbourg, France, in collaboration with the Research Institute on Artificial Intelligence (RACAI) of the Romanian Academy of Bucharest).
 
 ## Method
 
@@ -65,7 +65,7 @@ _________________
 
 # RefoMed
 
-**RefoMed** _(Reformulations Médicales)_ est un corpus de reformulations sous-phrastiques médicales réalisé pendant la thèse de doctorat "Une méthode automatique de construction de corpus de reformulation" par Ioana Buhnila (UR 1339 LiLPa, Linguistique, Langues, Parole, Université de Strasbourg ; RACAI, Institut de Recherche sur l’Intelligence Artificielle de l’Académie Roumaine de Bucarest).
+**RefoMed** _(Reformulations Médicales)_ est un corpus de reformulations sous-phrastiques médicales réalisé pendant la thèse de doctorat [Une méthode automatique de construction de corpus de reformulation](https://theses.hal.science/tel-04226255/) par Ioana Buhnila (UR 1339 LiLPa, Linguistique, Langues, Parole, Université de Strasbourg ; RACAI, Institut de Recherche sur l’Intelligence Artificielle de l’Académie Roumaine de Bucarest).
 
 Le corpus **RefoMed** est construit de 10 464 paires de termes médicaux – reformulations médicales et il est divisé en deux parties : 
 •	le corpus **RefoMed-Fr**, qui contient 7 437 paires de termes médicaux – reformulations médicales en français
@@ -81,9 +81,9 @@ La méthode automatique de constitution de corpus de reformulation que nous avon
 
 ## Corpus sources
 
-•	ClassYN (Todirascu et al., 2012) - corpus comparable qui comprend des textes scientifiques et des textes de vulgarisation scientifique du domaine de la médecine en français;
-•	CLEAR Cochrane (Grabar et Cardon, 2018) - corpus comparable qui contient des résumés scientifiques et des résumés simplifiés du domaine médical;
-•	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
+-	ClassYN (Todirascu et al., 2012) - corpus comparable qui comprend des textes scientifiques et des textes de vulgarisation scientifique du domaine de la médecine en français;
+-	CLEAR Cochrane (Grabar et Cardon, 2018) - corpus comparable qui contient des résumés scientifiques et des résumés simplifiés du domaine médical;
+-	GrandMedRo2 (Buhnila, 2023) - corpus qui contient des textes de vulgarisation médicales extraites depuis la toile avec l'outil de web scraping Sketch Engine  (Kilgarriff et al., 2014).
 
 ## Génération automatique de reformulations
 
